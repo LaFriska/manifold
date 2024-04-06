@@ -31,5 +31,4 @@ CREATE TABLE Entries (
     slot SMALLINT,
     FOREIGN KEY(pid) REFERENCES Plans(pid),
     FOREIGN KEY(course_code) REFERENCES ANU_Courses(course_code)
-
 )
