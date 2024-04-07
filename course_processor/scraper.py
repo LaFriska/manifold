@@ -55,12 +55,11 @@ def fetchRequisite(courseCode):
     print("Fetching requisites: " + courseCode)
     response = requests.get(f"https://programsandcourses.anu.edu.au/2024/course/{courseCode}")
     soup = BeautifulSoup(response.text, "html.parser")
-    program_requirements = soup.find("div", {"class": "requisite"})
-    if program_requirements is None:
-        err = "ERROR: CANNOT FETCH FOR " + courseCode
-        print(err)
-        return err
-    return program_requirements.get_text(strip=True, separator="\n")
-
-
-start()
+    req = soup.find("div", {"class": "requisite"})
+    if req is None:
+        req = soup.find("h2", {"id": "inherent-requirements"}).find_next("p")
+        if req is None:
+            err = "ERROR: CANNOT FETCH FOR " + courseCode
+            print(err)
+            return err
+    return req.get_text(strip=True, separator="\n")
