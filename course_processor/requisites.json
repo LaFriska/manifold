@@ -13,7 +13,7 @@
   },
   {
     "courseCode": "MGMT7169",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7169"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "CBEA6070",
@@ -137,7 +137,7 @@
   },
   {
     "courseCode": "SCNC5922",
-    "req": "ERROR: CANNOT FETCH FOR SCNC5922"
+    "req": "You will need to contact the ANU College of Science to request a permission code to enrol in this course."
   },
   {
     "courseCode": "HLTH3001",
@@ -149,7 +149,7 @@
   },
   {
     "courseCode": "PHYS8203",
-    "req": "ERROR: CANNOT FETCH FOR PHYS8203"
+    "req": "To be determined"
   },
   {
     "courseCode": "BUSN6051",
@@ -165,7 +165,7 @@
   },
   {
     "courseCode": "BUSN4500",
-    "req": "ERROR: CANNOT FETCH FOR BUSN4500"
+    "req": "You will need to contact the Research School of Accounting to request a permission code to enrol in this course."
   },
   {
     "courseCode": "INFS2005",
@@ -193,7 +193,7 @@
   },
   {
     "courseCode": "ASIA8021",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8021"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ACST8040",
@@ -293,7 +293,7 @@
   },
   {
     "courseCode": "ARTV2607",
-    "req": "ERROR: CANNOT FETCH FOR ARTV2607"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ARTV6607",
@@ -345,7 +345,7 @@
   },
   {
     "courseCode": "ECON4480",
-    "req": "ERROR: CANNOT FETCH FOR ECON4480"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON6080",
@@ -353,7 +353,7 @@
   },
   {
     "courseCode": "EMET8020",
-    "req": "ERROR: CANNOT FETCH FOR EMET8020"
+    "req": "School permission code required for enrolment. Please contact enquires.rse@anu.edu.au."
   },
   {
     "courseCode": "MATH3228",
@@ -405,7 +405,7 @@
   },
   {
     "courseCode": "EMET4314",
-    "req": "ERROR: CANNOT FETCH FOR EMET4314"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMET8008",
@@ -413,7 +413,7 @@
   },
   {
     "courseCode": "EMET4308",
-    "req": "ERROR: CANNOT FETCH FOR EMET4308"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "PHYS6102",
@@ -601,7 +601,7 @@
   },
   {
     "courseCode": "BIOL6203",
-    "req": "ERROR: CANNOT FETCH FOR BIOL6203"
+    "req": "Not yet determined"
   },
   {
     "courseCode": "CHIN3024",
@@ -649,7 +649,7 @@
   },
   {
     "courseCode": "CLAS9001",
-    "req": "ERROR: CANNOT FETCH FOR CLAS9001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING4106",
@@ -669,7 +669,7 @@
   },
   {
     "courseCode": "BIOL8702",
-    "req": "ERROR: CANNOT FETCH FOR BIOL8702"
+    "req": "You will need to contact the Biology Teaching and Learning Centre to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ARTV2723",
@@ -841,7 +841,7 @@
   },
   {
     "courseCode": "PHIL4011",
-    "req": "ERROR: CANNOT FETCH FOR PHIL4011"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ECON8901",
@@ -909,11 +909,11 @@
   },
   {
     "courseCode": "IDEC8018",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8018"
+    "req": "Not applicable."
   },
   {
     "courseCode": "IDEC8007",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8007"
+    "req": "None."
   },
   {
     "courseCode": "ENGN4339",
@@ -929,15 +929,15 @@
   },
   {
     "courseCode": "CLAS2015",
-    "req": "ERROR: CANNOT FETCH FOR CLAS2015"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MATH6118",
-    "req": "ERROR: CANNOT FETCH FOR MATH6118"
+    "req": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course."
   },
   {
     "courseCode": "MATH6215",
-    "req": "ERROR: CANNOT FETCH FOR MATH6215"
+    "req": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course."
   },
   {
     "courseCode": "MATH1003",
@@ -961,7 +961,7 @@
   },
   {
     "courseCode": "STST8053",
-    "req": "ERROR: CANNOT FETCH FOR STST8053"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTV2315",
@@ -985,11 +985,11 @@
   },
   {
     "courseCode": "MATH6110",
-    "req": "ERROR: CANNOT FETCH FOR MATH6110"
+    "req": "There are no course-specific inherent requirements."
   },
   {
     "courseCode": "MATH6212",
-    "req": "ERROR: CANNOT FETCH FOR MATH6212"
+    "req": "To be determined"
   },
   {
     "courseCode": "BUSN4007",
@@ -1025,7 +1025,7 @@
   },
   {
     "courseCode": "ARCH8044",
-    "req": "ERROR: CANNOT FETCH FOR ARCH8044"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CLAS1006",
@@ -1049,7 +1049,7 @@
   },
   {
     "courseCode": "ARCH2030",
-    "req": "ERROR: CANNOT FETCH FOR ARCH2030"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH3108",
@@ -1061,7 +1061,7 @@
   },
   {
     "courseCode": "CHMD8009",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8009"
+    "req": "No specific inherent requirements have been identified for this course."
   },
   {
     "courseCode": "ANTH9112",
@@ -1069,11 +1069,11 @@
   },
   {
     "courseCode": "ANTH8061",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8061"
+    "req": "None"
   },
   {
     "courseCode": "CHMD8022",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8022"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "BIAN2064",
@@ -1085,7 +1085,7 @@
   },
   {
     "courseCode": "ARAB3010",
-    "req": "ERROR: CANNOT FETCH FOR ARAB3010"
+    "req": "This is a study tour course. Students must be able to travel internationally."
   },
   {
     "courseCode": "FINM7007",
@@ -1105,11 +1105,11 @@
   },
   {
     "courseCode": "IDEC8020",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8020"
+    "req": "Not applicable."
   },
   {
     "courseCode": "MGMT8020",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8020"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "FINM8014",
@@ -1133,7 +1133,7 @@
   },
   {
     "courseCode": "EMET4310",
-    "req": "ERROR: CANNOT FETCH FOR EMET4310"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "EMET3008",
@@ -1165,7 +1165,7 @@
   },
   {
     "courseCode": "EMET4301",
-    "req": "ERROR: CANNOT FETCH FOR EMET4301"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMET6001",
@@ -1177,7 +1177,7 @@
   },
   {
     "courseCode": "CRWF7000",
-    "req": "ERROR: CANNOT FETCH FOR CRWF7000"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS3041",
@@ -1193,7 +1193,7 @@
   },
   {
     "courseCode": "STAT4102",
-    "req": "ERROR: CANNOT FETCH FOR STAT4102"
+    "req": "Not applicable."
   },
   {
     "courseCode": "STAT8002",
@@ -1201,15 +1201,15 @@
   },
   {
     "courseCode": "MMIB4001",
-    "req": "ERROR: CANNOT FETCH FOR MMIB4001"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "MMIB8001",
-    "req": "ERROR: CANNOT FETCH FOR MMIB8001"
+    "req": "Agreement from a supervisor to supervise the research project."
   },
   {
     "courseCode": "MMIB8002",
-    "req": "ERROR: CANNOT FETCH FOR MMIB8002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "FINM6005",
@@ -1233,7 +1233,7 @@
   },
   {
     "courseCode": "BIOL6210",
-    "req": "ERROR: CANNOT FETCH FOR BIOL6210"
+    "req": "This is a field course and students must participate in the 2 week field trip in Kioloa. In order to participate in the trip, students must be able to:"
   },
   {
     "courseCode": "BIOL3210",
@@ -1249,7 +1249,7 @@
   },
   {
     "courseCode": "ASIA8022",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8022"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH6008",
@@ -1261,7 +1261,7 @@
   },
   {
     "courseCode": "ARCH2055",
-    "req": "ERROR: CANNOT FETCH FOR ARCH2055"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH2007",
@@ -1277,7 +1277,7 @@
   },
   {
     "courseCode": "ARCH8031",
-    "req": "ERROR: CANNOT FETCH FOR ARCH8031"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH8030",
@@ -1285,7 +1285,7 @@
   },
   {
     "courseCode": "ARCH1111",
-    "req": "ERROR: CANNOT FETCH FOR ARCH1111"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH4003",
@@ -1293,7 +1293,7 @@
   },
   {
     "courseCode": "ARCH2052",
-    "req": "ERROR: CANNOT FETCH FOR ARCH2052"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA2203",
@@ -1301,15 +1301,15 @@
   },
   {
     "courseCode": "ASIA6202",
-    "req": "ERROR: CANNOT FETCH FOR ASIA6202"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH6030",
-    "req": "ERROR: CANNOT FETCH FOR ARCH6030"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ARCH3030",
-    "req": "ERROR: CANNOT FETCH FOR ARCH3030"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ARCH2050",
@@ -1325,7 +1325,7 @@
   },
   {
     "courseCode": "ARCH8033",
-    "req": "ERROR: CANNOT FETCH FOR ARCH8033"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTH8020",
@@ -1333,7 +1333,7 @@
   },
   {
     "courseCode": "ARTH1006",
-    "req": "ERROR: CANNOT FETCH FOR ARTH1006"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTH1007",
@@ -1341,11 +1341,11 @@
   },
   {
     "courseCode": "ARTH2001",
-    "req": "ERROR: CANNOT FETCH FOR ARTH2001"
+    "req": "Students need to be able to travel internationally and capable of meeting travel costs."
   },
   {
     "courseCode": "ARTH6001",
-    "req": "ERROR: CANNOT FETCH FOR ARTH6001"
+    "req": "Students need to be able to travel internationally and capable of paying for their own travel."
   },
   {
     "courseCode": "ARTH4030",
@@ -1397,7 +1397,7 @@
   },
   {
     "courseCode": "ARTH3005",
-    "req": "ERROR: CANNOT FETCH FOR ARTH3005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "COMP3620",
@@ -1421,19 +1421,19 @@
   },
   {
     "courseCode": "ASIA3023",
-    "req": "ERROR: CANNOT FETCH FOR ASIA3023"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA1030",
-    "req": "ERROR: CANNOT FETCH FOR ASIA1030"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA1025",
-    "req": "ERROR: CANNOT FETCH FOR ASIA1025"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMDV8009",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8009"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ASIA2220",
@@ -1441,7 +1441,7 @@
   },
   {
     "courseCode": "BUSI7055",
-    "req": "ERROR: CANNOT FETCH FOR BUSI7055"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "FINM3045",
@@ -1453,7 +1453,7 @@
   },
   {
     "courseCode": "ASIA2067",
-    "req": "ERROR: CANNOT FETCH FOR ASIA2067"
+    "req": "Not applicable."
   },
   {
     "courseCode": "ARTH2169",
@@ -1461,11 +1461,11 @@
   },
   {
     "courseCode": "STST8068",
-    "req": "ERROR: CANNOT FETCH FOR STST8068"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA2098",
-    "req": "ERROR: CANNOT FETCH FOR ASIA2098"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA2065",
@@ -1481,15 +1481,15 @@
   },
   {
     "courseCode": "ASTR4005",
-    "req": "ERROR: CANNOT FETCH FOR ASTR4005"
+    "req": "To be determined"
   },
   {
     "courseCode": "ASTR8001",
-    "req": "ERROR: CANNOT FETCH FOR ASTR8001"
+    "req": "To be determined"
   },
   {
     "courseCode": "ASTR1003",
-    "req": "ERROR: CANNOT FETCH FOR ASTR1003"
+    "req": "To be determined"
   },
   {
     "courseCode": "ASTR6013",
@@ -1517,15 +1517,15 @@
   },
   {
     "courseCode": "ASTR3005",
-    "req": "ERROR: CANNOT FETCH FOR ASTR3005"
+    "req": "You will need to contact the Research School of Astronomy and Astrophysics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ARTV2038",
-    "req": "ERROR: CANNOT FETCH FOR ARTV2038"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8020",
-    "req": "ERROR: CANNOT FETCH FOR INTR8020"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BUSN3002",
@@ -1565,7 +1565,7 @@
   },
   {
     "courseCode": "ENVS1004",
-    "req": "ERROR: CANNOT FETCH FOR ENVS1004"
+    "req": "This course includes a non-compulsory 2 day field trip."
   },
   {
     "courseCode": "BAPA3004",
@@ -1577,7 +1577,7 @@
   },
   {
     "courseCode": "HIST8144",
-    "req": "ERROR: CANNOT FETCH FOR HIST8144"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH6004",
@@ -1605,7 +1605,7 @@
   },
   {
     "courseCode": "INDG9004",
-    "req": "ERROR: CANNOT FETCH FOR INDG9004"
+    "req": "To enrol in this course you must be enrolled in an Higher Degree by Research program at ANU."
   },
   {
     "courseCode": "LAWS8328",
@@ -1665,7 +1665,7 @@
   },
   {
     "courseCode": "STST8004",
-    "req": "ERROR: CANNOT FETCH FOR STST8004"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BIOL6213",
@@ -1681,7 +1681,7 @@
   },
   {
     "courseCode": "NSPO8035",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8035"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "LING2040",
@@ -1693,7 +1693,7 @@
   },
   {
     "courseCode": "POLS8051",
-    "req": "ERROR: CANNOT FETCH FOR POLS8051"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MEAS4116",
@@ -1725,7 +1725,7 @@
   },
   {
     "courseCode": "VCPG6005",
-    "req": "ERROR: CANNOT FETCH FOR VCPG6005"
+    "req": "Will vary depending on the Topic"
   },
   {
     "courseCode": "LAWS4005",
@@ -1793,7 +1793,7 @@
   },
   {
     "courseCode": "HIST8011",
-    "req": "ERROR: CANNOT FETCH FOR HIST8011"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MATH2307",
@@ -1829,27 +1829,27 @@
   },
   {
     "courseCode": "BIOL1003",
-    "req": "ERROR: CANNOT FETCH FOR BIOL1003"
+    "req": "In this course, to meet Learning Outcomes 3 and 5, students learn how to interpret sensory observations to make precise laboratory manipulations. This requires students to be able to:"
   },
   {
     "courseCode": "BIOL6035",
-    "req": "ERROR: CANNOT FETCH FOR BIOL6035"
+    "req": "Not yet determined."
   },
   {
     "courseCode": "BIOL6036",
-    "req": "ERROR: CANNOT FETCH FOR BIOL6036"
+    "req": "Not yet determined."
   },
   {
     "courseCode": "BIOL1004",
-    "req": "ERROR: CANNOT FETCH FOR BIOL1004"
+    "req": "In this course, to meet Learning Outcomes 3 and 4, students learn how to interpret sensory observations to make precise laboratory manipulations. This requires students to be able to:"
   },
   {
     "courseCode": "BIOL4001",
-    "req": "ERROR: CANNOT FETCH FOR BIOL4001"
+    "req": "You will need to contact the Biology Teaching and Learning Centre to request a permission code to enrol in this course."
   },
   {
     "courseCode": "BIOL8704",
-    "req": "ERROR: CANNOT FETCH FOR BIOL8704"
+    "req": "To be determined"
   },
   {
     "courseCode": "BIOL3208",
@@ -1861,7 +1861,7 @@
   },
   {
     "courseCode": "BIOL8706",
-    "req": "ERROR: CANNOT FETCH FOR BIOL8706"
+    "req": "To  be determined"
   },
   {
     "courseCode": "ENGN4811",
@@ -1905,7 +1905,7 @@
   },
   {
     "courseCode": "REGN8019",
-    "req": "ERROR: CANNOT FETCH FOR REGN8019"
+    "req": "Not applicable."
   },
   {
     "courseCode": "LAWS8101",
@@ -1929,11 +1929,11 @@
   },
   {
     "courseCode": "NSPO8041",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8041"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI8302",
-    "req": "ERROR: CANNOT FETCH FOR PASI8302"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PHIL2012",
@@ -1941,7 +1941,7 @@
   },
   {
     "courseCode": "POGO8237",
-    "req": "ERROR: CANNOT FETCH FOR POGO8237"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CECS8001",
@@ -1953,7 +1953,7 @@
   },
   {
     "courseCode": "STST8054",
-    "req": "ERROR: CANNOT FETCH FOR STST8054"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS2009",
@@ -1985,11 +1985,11 @@
   },
   {
     "courseCode": "EMET4312",
-    "req": "ERROR: CANNOT FETCH FOR EMET4312"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INFS8210",
-    "req": "ERROR: CANNOT FETCH FOR INFS8210"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "BUSN7057",
@@ -1997,7 +1997,7 @@
   },
   {
     "courseCode": "MGMT2003",
-    "req": "ERROR: CANNOT FETCH FOR MGMT2003"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "ECON8069",
@@ -2009,15 +2009,15 @@
   },
   {
     "courseCode": "MGMT8242",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8242"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "INFS1001",
-    "req": "ERROR: CANNOT FETCH FOR INFS1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INFS4500",
-    "req": "ERROR: CANNOT FETCH FOR INFS4500"
+    "req": "Agreement from a supervisor to supervise the research project and resulting thesis."
   },
   {
     "courseCode": "BUSN1001",
@@ -2049,7 +2049,7 @@
   },
   {
     "courseCode": "SOCR9005",
-    "req": "ERROR: CANNOT FETCH FOR SOCR9005"
+    "req": "N/A"
   },
   {
     "courseCode": "CHIN2024",
@@ -2069,7 +2069,7 @@
   },
   {
     "courseCode": "MGMT2005",
-    "req": "ERROR: CANNOT FETCH FOR MGMT2005"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "IDEC8023",
@@ -2085,7 +2085,7 @@
   },
   {
     "courseCode": "POGO8403",
-    "req": "ERROR: CANNOT FETCH FOR POGO8403"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CHEM3206",
@@ -2133,7 +2133,7 @@
   },
   {
     "courseCode": "ANTH8125",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8125"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CHEM2211",
@@ -2157,7 +2157,7 @@
   },
   {
     "courseCode": "CHEM1101",
-    "req": "ERROR: CANNOT FETCH FOR CHEM1101"
+    "req": "To be determined"
   },
   {
     "courseCode": "CHEM1201",
@@ -2165,7 +2165,7 @@
   },
   {
     "courseCode": "CHEM4005",
-    "req": "ERROR: CANNOT FETCH FOR CHEM4005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING6521",
@@ -2177,15 +2177,15 @@
   },
   {
     "courseCode": "STST8013",
-    "req": "ERROR: CANNOT FETCH FOR STST8013"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8060",
-    "req": "ERROR: CANNOT FETCH FOR INTR8060"
+    "req": "Not applicable"
   },
   {
     "courseCode": "NSPO8034",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8034"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA2014",
@@ -2281,11 +2281,11 @@
   },
   {
     "courseCode": "ENVS8003",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8003"
+    "req": "To be determined"
   },
   {
     "courseCode": "INTR8087",
-    "req": "ERROR: CANNOT FETCH FOR INTR8087"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENVS3013",
@@ -2329,7 +2329,7 @@
   },
   {
     "courseCode": "NSPO8033",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8033"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PSYC8101",
@@ -2377,7 +2377,7 @@
   },
   {
     "courseCode": "NSPO8030",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8030"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PSYC2008",
@@ -2389,7 +2389,7 @@
   },
   {
     "courseCode": "MUSC8021",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8021"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CBEA3001",
@@ -2397,11 +2397,11 @@
   },
   {
     "courseCode": "HIST8015",
-    "req": "ERROR: CANNOT FETCH FOR HIST8015"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HIST8016",
-    "req": "ERROR: CANNOT FETCH FOR HIST8016"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS4309",
@@ -2457,7 +2457,7 @@
   },
   {
     "courseCode": "EMDV8007",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8007"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT2100",
@@ -2473,7 +2473,7 @@
   },
   {
     "courseCode": "POGO8242",
-    "req": "ERROR: CANNOT FETCH FOR POGO8242"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS4268",
@@ -2517,7 +2517,7 @@
   },
   {
     "courseCode": "POLS8039",
-    "req": "ERROR: CANNOT FETCH FOR POLS8039"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS4038",
@@ -2525,7 +2525,7 @@
   },
   {
     "courseCode": "POLS8038",
-    "req": "ERROR: CANNOT FETCH FOR POLS8038"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS4255",
@@ -2553,7 +2553,7 @@
   },
   {
     "courseCode": "MATH6213",
-    "req": "ERROR: CANNOT FETCH FOR MATH6213"
+    "req": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENVS3040",
@@ -2565,11 +2565,11 @@
   },
   {
     "courseCode": "REGN8056",
-    "req": "ERROR: CANNOT FETCH FOR REGN8056"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8055",
-    "req": "ERROR: CANNOT FETCH FOR REGN8055"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN4511",
@@ -2577,7 +2577,7 @@
   },
   {
     "courseCode": "MUSI2226",
-    "req": "ERROR: CANNOT FETCH FOR MUSI2226"
+    "req": "N/A minor amendments"
   },
   {
     "courseCode": "MUSI1111",
@@ -2681,11 +2681,11 @@
   },
   {
     "courseCode": "COMP4005F",
-    "req": "ERROR: CANNOT FETCH FOR COMP4005F"
+    "req": "You will need to contact the School of Computing to request a permission code to enrol in this course."
   },
   {
     "courseCode": "COMP4005P",
-    "req": "ERROR: CANNOT FETCH FOR COMP4005P"
+    "req": "You will need to contact the School of Computing to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENGN2219",
@@ -2765,7 +2765,7 @@
   },
   {
     "courseCode": "ANTH8101",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8101"
+    "req": "You will need to contact the School of Archaeology and Anthropology to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ARTH2170",
@@ -2773,7 +2773,7 @@
   },
   {
     "courseCode": "INDG2002",
-    "req": "ERROR: CANNOT FETCH FOR INDG2002"
+    "req": "None"
   },
   {
     "courseCode": "DIPL8002",
@@ -2781,15 +2781,15 @@
   },
   {
     "courseCode": "POGO8239",
-    "req": "ERROR: CANNOT FETCH FOR POGO8239"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCY2023",
-    "req": "ERROR: CANNOT FETCH FOR SOCY2023"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DESN1003",
-    "req": "ERROR: CANNOT FETCH FOR DESN1003"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ANTH9103",
@@ -2813,11 +2813,11 @@
   },
   {
     "courseCode": "REGN8014",
-    "req": "ERROR: CANNOT FETCH FOR REGN8014"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENVS8016",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8016"
+    "req": "No specific inherent requirements have been identified for this course."
   },
   {
     "courseCode": "POLS2044",
@@ -2833,11 +2833,11 @@
   },
   {
     "courseCode": "ASIA8042",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8042"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS8053",
-    "req": "ERROR: CANNOT FETCH FOR POLS8053"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTV2060",
@@ -2937,7 +2937,7 @@
   },
   {
     "courseCode": "MGMT7153",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7153"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "BUSN7050",
@@ -3009,19 +3009,19 @@
   },
   {
     "courseCode": "REGN8054",
-    "req": "ERROR: CANNOT FETCH FOR REGN8054"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING3038",
-    "req": "ERROR: CANNOT FETCH FOR LING3038"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING6038",
-    "req": "ERROR: CANNOT FETCH FOR LING6038"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8076",
-    "req": "ERROR: CANNOT FETCH FOR POGO8076"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "CRIM3002",
@@ -3037,11 +3037,11 @@
   },
   {
     "courseCode": "IDEC8088",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8088"
+    "req": "Not applicable."
   },
   {
     "courseCode": "INDG1001",
-    "req": "ERROR: CANNOT FETCH FOR INDG1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT8110",
@@ -3089,7 +3089,7 @@
   },
   {
     "courseCode": "ENGL2077",
-    "req": "ERROR: CANNOT FETCH FOR ENGL2077"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGL6026",
@@ -3109,7 +3109,7 @@
   },
   {
     "courseCode": "REGN8013",
-    "req": "ERROR: CANNOT FETCH FOR REGN8013"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS1206",
@@ -3125,7 +3125,7 @@
   },
   {
     "courseCode": "CRIM1002",
-    "req": "ERROR: CANNOT FETCH FOR CRIM1002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CRIM3003",
@@ -3153,7 +3153,7 @@
   },
   {
     "courseCode": "PASI8011",
-    "req": "ERROR: CANNOT FETCH FOR PASI8011"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INDG3009",
@@ -3165,7 +3165,7 @@
   },
   {
     "courseCode": "HUMN8035",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8035"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MEAS3003",
@@ -3197,7 +3197,7 @@
   },
   {
     "courseCode": "ARTH4023",
-    "req": "ERROR: CANNOT FETCH FOR ARTH4023"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTH8023",
@@ -3225,7 +3225,7 @@
   },
   {
     "courseCode": "ASIA8038",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8038"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ANTH2009",
@@ -3277,11 +3277,11 @@
   },
   {
     "courseCode": "ARTH4025",
-    "req": "ERROR: CANNOT FETCH FOR ARTH4025"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTH8025",
-    "req": "ERROR: CANNOT FETCH FOR ARTH8025"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTH2045",
@@ -3417,15 +3417,15 @@
   },
   {
     "courseCode": "POLS8019",
-    "req": "ERROR: CANNOT FETCH FOR POLS8019"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "CLAS2014",
-    "req": "ERROR: CANNOT FETCH FOR CLAS2014"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DEMO3002",
-    "req": "ERROR: CANNOT FETCH FOR DEMO3002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DEMO4011",
@@ -3465,7 +3465,7 @@
   },
   {
     "courseCode": "MGMT2009",
-    "req": "ERROR: CANNOT FETCH FOR MGMT2009"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "STAT4029",
@@ -3493,7 +3493,7 @@
   },
   {
     "courseCode": "POGO8072",
-    "req": "ERROR: CANNOT FETCH FOR POGO8072"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS2011",
@@ -3501,11 +3501,11 @@
   },
   {
     "courseCode": "EMDV8013",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8013"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ANTH8009",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8009"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BIOL6109",
@@ -3533,7 +3533,7 @@
   },
   {
     "courseCode": "MATH6205",
-    "req": "ERROR: CANNOT FETCH FOR MATH6205"
+    "req": "To be determined"
   },
   {
     "courseCode": "ASTR8020",
@@ -3565,7 +3565,7 @@
   },
   {
     "courseCode": "HUMN8028",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8028"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HUMN4028",
@@ -3645,7 +3645,7 @@
   },
   {
     "courseCode": "INFS7040",
-    "req": "ERROR: CANNOT FETCH FOR INFS7040"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "MGMT8009",
@@ -3657,31 +3657,31 @@
   },
   {
     "courseCode": "DIPL8006",
-    "req": "ERROR: CANNOT FETCH FOR DIPL8006"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DIPL8009",
-    "req": "ERROR: CANNOT FETCH FOR DIPL8009"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CHMD8001",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8001"
+    "req": "No specific inherent requirements have been identified for this course"
   },
   {
     "courseCode": "EMDV8124",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8124"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA8048",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8048"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HIST8045",
-    "req": "ERROR: CANNOT FETCH FOR HIST8045"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN1211",
-    "req": "ERROR: CANNOT FETCH FOR ENGN1211"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MATH6005",
@@ -3689,11 +3689,11 @@
   },
   {
     "courseCode": "MATH1005",
-    "req": "ERROR: CANNOT FETCH FOR MATH1005"
+    "req": "There are no course-specific inherent requirements."
   },
   {
     "courseCode": "NSPO8013",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8013"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "CRIM3005",
@@ -3701,7 +3701,7 @@
   },
   {
     "courseCode": "BIOL1009",
-    "req": "ERROR: CANNOT FETCH FOR BIOL1009"
+    "req": "In this course, to meet Learning Outcomes 2 and 4, students are required to"
   },
   {
     "courseCode": "MGMT8113",
@@ -3749,7 +3749,7 @@
   },
   {
     "courseCode": "EMDV8081",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8081"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTV6703",
@@ -3833,7 +3833,7 @@
   },
   {
     "courseCode": "EMSC4005",
-    "req": "ERROR: CANNOT FETCH FOR EMSC4005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENVS3014",
@@ -3845,7 +3845,7 @@
   },
   {
     "courseCode": "EMDV8012",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8012"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BIOL6004",
@@ -3861,7 +3861,7 @@
   },
   {
     "courseCode": "IDEC8017",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8017"
+    "req": "Not applicable."
   },
   {
     "courseCode": "EMET2007",
@@ -3869,7 +3869,7 @@
   },
   {
     "courseCode": "EMET4007",
-    "req": "ERROR: CANNOT FETCH FOR EMET4007"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMET6007",
@@ -3933,7 +3933,7 @@
   },
   {
     "courseCode": "ECON4488",
-    "req": "ERROR: CANNOT FETCH FOR ECON4488"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ECON1100",
@@ -3957,7 +3957,7 @@
   },
   {
     "courseCode": "SOCY1004",
-    "req": "ERROR: CANNOT FETCH FOR SOCY1004"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCY2021",
@@ -3993,7 +3993,7 @@
   },
   {
     "courseCode": "EMSC4712",
-    "req": "ERROR: CANNOT FETCH FOR EMSC4712"
+    "req": "Not yet determined"
   },
   {
     "courseCode": "TURK1001",
@@ -4013,7 +4013,7 @@
   },
   {
     "courseCode": "HIST2070",
-    "req": "ERROR: CANNOT FETCH FOR HIST2070"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGL2068",
@@ -4025,15 +4025,15 @@
   },
   {
     "courseCode": "HIST1214",
-    "req": "ERROR: CANNOT FETCH FOR HIST1214"
+    "req": "Not applicable"
   },
   {
     "courseCode": "IDEC8025",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8025"
+    "req": "None."
   },
   {
     "courseCode": "BUSN8100",
-    "req": "ERROR: CANNOT FETCH FOR BUSN8100"
+    "req": "You will need to contact the Research School of Accounting to request a permission code to enrol in this course."
   },
   {
     "courseCode": "CBEA2000",
@@ -4045,7 +4045,7 @@
   },
   {
     "courseCode": "IDEC8089",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8089"
+    "req": "None"
   },
   {
     "courseCode": "ENGN3516",
@@ -4065,7 +4065,7 @@
   },
   {
     "courseCode": "SCOM8088",
-    "req": "ERROR: CANNOT FETCH FOR SCOM8088"
+    "req": "No specific inherent requirements have been identified for this courses."
   },
   {
     "courseCode": "ASIA8040",
@@ -4077,7 +4077,7 @@
   },
   {
     "courseCode": "POGO8235",
-    "req": "ERROR: CANNOT FETCH FOR POGO8235"
+    "req": "Not applicable"
   },
   {
     "courseCode": "COMP8535",
@@ -4209,7 +4209,7 @@
   },
   {
     "courseCode": "MGMT8015",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8015"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "ARTV2921",
@@ -4225,7 +4225,7 @@
   },
   {
     "courseCode": "HIST1210",
-    "req": "ERROR: CANNOT FETCH FOR HIST1210"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENVS1001",
@@ -4245,11 +4245,11 @@
   },
   {
     "courseCode": "IDEC8053",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8053"
+    "req": "Not applicable."
   },
   {
     "courseCode": "EMDV8078",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8078"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN3901",
@@ -4257,7 +4257,7 @@
   },
   {
     "courseCode": "EMDV8104",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8104"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENVS3344",
@@ -4281,7 +4281,7 @@
   },
   {
     "courseCode": "EMDV8011",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8011"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MATH3133",
@@ -4357,7 +4357,7 @@
   },
   {
     "courseCode": "LING9032",
-    "req": "ERROR: CANNOT FETCH FOR LING9032"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING8032",
@@ -4373,7 +4373,7 @@
   },
   {
     "courseCode": "NSPO8008",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8008"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PSYC8512",
@@ -4381,7 +4381,7 @@
   },
   {
     "courseCode": "INTR8053",
-    "req": "ERROR: CANNOT FETCH FOR INTR8053"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ANTH8001",
@@ -4389,7 +4389,7 @@
   },
   {
     "courseCode": "ANTH8062",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8062"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HIST2205",
@@ -4397,7 +4397,7 @@
   },
   {
     "courseCode": "EURO1004",
-    "req": "ERROR: CANNOT FETCH FOR EURO1004"
+    "req": "This course requires students to read, to engage in discussion in both the lectures and tutorials, and to complete written work."
   },
   {
     "courseCode": "ARCH6058",
@@ -4417,7 +4417,7 @@
   },
   {
     "courseCode": "POGO8240",
-    "req": "ERROR: CANNOT FETCH FOR POGO8240"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8500",
@@ -4437,11 +4437,11 @@
   },
   {
     "courseCode": "MGMT7250",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7250"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "PASI8010",
-    "req": "ERROR: CANNOT FETCH FOR PASI8010"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BIOL2114",
@@ -4473,7 +4473,7 @@
   },
   {
     "courseCode": "INTR8046",
-    "req": "ERROR: CANNOT FETCH FOR INTR8046"
+    "req": "Not applicable"
   },
   {
     "courseCode": "GEND2036",
@@ -4485,87 +4485,87 @@
   },
   {
     "courseCode": "CBEA5922",
-    "req": "ERROR: CANNOT FETCH FOR CBEA5922"
+    "req": "You will need to contact the ANU College of Business and Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "CBEA5920",
-    "req": "ERROR: CANNOT FETCH FOR CBEA5920"
+    "req": "You will need to contact the ANU College of Business and Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "CBEA8820",
-    "req": "ERROR: CANNOT FETCH FOR CBEA8820"
+    "req": "You will need to contact the ANU College of Business and Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ARTS5920",
-    "req": "ERROR: CANNOT FETCH FOR ARTS5920"
+    "req": "You will need to contact the ANU College of Arts and Social Sciences to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ARTS5921",
-    "req": "ERROR: CANNOT FETCH FOR ARTS5921"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ARTS5912",
-    "req": "ERROR: CANNOT FETCH FOR ARTS5912"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ARTS5924",
-    "req": "ERROR: CANNOT FETCH FOR ARTS5924"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ARTS5922",
-    "req": "ERROR: CANNOT FETCH FOR ARTS5922"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ARTS8820",
-    "req": "ERROR: CANNOT FETCH FOR ARTS8820"
+    "req": "You will need to contact the ANU College of Arts and Social Sciences to request a permission code to enrol in this course."
   },
   {
     "courseCode": "HLMD8820",
-    "req": "ERROR: CANNOT FETCH FOR HLMD8820"
+    "req": "You will need to contact the ANU College of Health and Medicine to request a permission code to enrol in this course."
   },
   {
     "courseCode": "SCNC8820",
-    "req": "ERROR: CANNOT FETCH FOR SCNC8820"
+    "req": "You will need to contact the ANU College of Science to request a permission code to enrol in this course."
   },
   {
     "courseCode": "COMP8820",
-    "req": "ERROR: CANNOT FETCH FOR COMP8820"
+    "req": "You will need to contact the School of Computing to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENGN8820",
-    "req": "ERROR: CANNOT FETCH FOR ENGN8820"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "HLMD5921",
-    "req": "ERROR: CANNOT FETCH FOR HLMD5921"
+    "req": "You will need to contact the ANU College of Health and Medicine to request a permission code to enrol in this course."
   },
   {
     "courseCode": "HLMD5920",
-    "req": "ERROR: CANNOT FETCH FOR HLMD5920"
+    "req": "You will need to contact the ANU College of Health and Medicine to request a permission code to enrol in this course."
   },
   {
     "courseCode": "LAWS5920",
-    "req": "ERROR: CANNOT FETCH FOR LAWS5920"
+    "req": "You will need to contact the ANU Law School to request a permission code to enrol in this course."
   },
   {
     "courseCode": "SCNC5921",
-    "req": "ERROR: CANNOT FETCH FOR SCNC5921"
+    "req": "You will need to contact the ANU College of Science to request a permission code to enrol in this course."
   },
   {
     "courseCode": "SCNC5920",
-    "req": "ERROR: CANNOT FETCH FOR SCNC5920"
+    "req": "You will need to contact the ANU College of Science to request a permission code to enrol in this course."
   },
   {
     "courseCode": "COMP5920",
-    "req": "ERROR: CANNOT FETCH FOR COMP5920"
+    "req": "You will need to contact the School of Computing to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENGN5920",
-    "req": "ERROR: CANNOT FETCH FOR ENGN5920"
+    "req": "You will need to contact the School of Engineering to request a permission code to enrol in this course."
   },
   {
     "courseCode": "CBEA5921",
-    "req": "ERROR: CANNOT FETCH FOR CBEA5921"
+    "req": "You will need to contact the ANU College of Business and Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "LAWS8241",
@@ -4573,7 +4573,7 @@
   },
   {
     "courseCode": "MUSC8018",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8018"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTV2119",
@@ -4665,19 +4665,19 @@
   },
   {
     "courseCode": "HONS4100",
-    "req": "ERROR: CANNOT FETCH FOR HONS4100"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "HONS4601",
-    "req": "ERROR: CANNOT FETCH FOR HONS4601"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "HONS4602",
-    "req": "ERROR: CANNOT FETCH FOR HONS4602"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "FINM4500",
-    "req": "ERROR: CANNOT FETCH FOR FINM4500"
+    "req": "You will need to contact the Rsch Sch of Finance, Actuarial Studies & App Stats to request a permission code to enrol in this course."
   },
   {
     "courseCode": "FINM7046",
@@ -4693,7 +4693,7 @@
   },
   {
     "courseCode": "ECON4437",
-    "req": "ERROR: CANNOT FETCH FOR ECON4437"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ECON3006",
@@ -4705,7 +4705,7 @@
   },
   {
     "courseCode": "IDEC8083",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8083"
+    "req": "Not applicable."
   },
   {
     "courseCode": "LAWS4237",
@@ -4781,11 +4781,11 @@
   },
   {
     "courseCode": "INDG3007",
-    "req": "ERROR: CANNOT FETCH FOR INDG3007"
+    "req": "Demonstrated insight into positionality/standpoint, and concepts in Australian Indigenous Studies."
   },
   {
     "courseCode": "INDG3003",
-    "req": "ERROR: CANNOT FETCH FOR INDG3003"
+    "req": "Not applicable."
   },
   {
     "courseCode": "ENGN4337",
@@ -4801,7 +4801,7 @@
   },
   {
     "courseCode": "EMDV8082",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8082"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ANTH2132",
@@ -4813,7 +4813,7 @@
   },
   {
     "courseCode": "POGO8015",
-    "req": "ERROR: CANNOT FETCH FOR POGO8015"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS3001",
@@ -4821,7 +4821,7 @@
   },
   {
     "courseCode": "INTR8068",
-    "req": "ERROR: CANNOT FETCH FOR INTR8068"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BUSN8067",
@@ -4861,7 +4861,7 @@
   },
   {
     "courseCode": "POGO8401",
-    "req": "ERROR: CANNOT FETCH FOR POGO8401"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASTR2013",
@@ -4901,7 +4901,7 @@
   },
   {
     "courseCode": "EMET1001",
-    "req": "ERROR: CANNOT FETCH FOR EMET1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "FINM1001",
@@ -4941,7 +4941,7 @@
   },
   {
     "courseCode": "SOCR1001",
-    "req": "ERROR: CANNOT FETCH FOR SOCR1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING8004",
@@ -4993,7 +4993,7 @@
   },
   {
     "courseCode": "PHIL1004",
-    "req": "ERROR: CANNOT FETCH FOR PHIL1004"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMSC2021",
@@ -5013,7 +5013,7 @@
   },
   {
     "courseCode": "EMSC6123",
-    "req": "ERROR: CANNOT FETCH FOR EMSC6123"
+    "req": "Students in this course must typically participate in an approximately 6 day field trip. This requires students to be able to:"
   },
   {
     "courseCode": "EMSC2023",
@@ -5021,7 +5021,7 @@
   },
   {
     "courseCode": "POGO8238",
-    "req": "ERROR: CANNOT FETCH FOR POGO8238"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PHYS3711",
@@ -5041,23 +5041,23 @@
   },
   {
     "courseCode": "PHYS8201",
-    "req": "ERROR: CANNOT FETCH FOR PHYS8201"
+    "req": "To be determined"
   },
   {
     "courseCode": "REGN8021",
-    "req": "ERROR: CANNOT FETCH FOR REGN8021"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA4001",
-    "req": "ERROR: CANNOT FETCH FOR ASIA4001"
+    "req": "You will need to contact the School of Culture History and Language to request a permission code to enrol in this course."
   },
   {
     "courseCode": "STST4001",
-    "req": "ERROR: CANNOT FETCH FOR STST4001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8097",
-    "req": "ERROR: CANNOT FETCH FOR POGO8097"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENVS2015",
@@ -5085,7 +5085,7 @@
   },
   {
     "courseCode": "MEAS2006",
-    "req": "ERROR: CANNOT FETCH FOR MEAS2006"
+    "req": "Not applicable"
   },
   {
     "courseCode": "COMP6540",
@@ -5129,7 +5129,7 @@
   },
   {
     "courseCode": "POGO8230",
-    "req": "ERROR: CANNOT FETCH FOR POGO8230"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA2311",
@@ -5149,7 +5149,7 @@
   },
   {
     "courseCode": "NSPO8040",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8040"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI3002",
@@ -5189,7 +5189,7 @@
   },
   {
     "courseCode": "ANTH8060",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8060"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS8329",
@@ -5201,11 +5201,11 @@
   },
   {
     "courseCode": "ANTH8106",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8106"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8064",
-    "req": "ERROR: CANNOT FETCH FOR INTR8064"
+    "req": "Not applicable."
   },
   {
     "courseCode": "BIOL2142",
@@ -5301,7 +5301,7 @@
   },
   {
     "courseCode": "NSPO8032",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8032"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MEAS8114",
@@ -5365,7 +5365,7 @@
   },
   {
     "courseCode": "ARTV1302",
-    "req": "ERROR: CANNOT FETCH FOR ARTV1302"
+    "req": "n/a"
   },
   {
     "courseCode": "ARTV2117",
@@ -5389,19 +5389,19 @@
   },
   {
     "courseCode": "INTR8080",
-    "req": "ERROR: CANNOT FETCH FOR INTR8080"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HLMD1002",
-    "req": "ERROR: CANNOT FETCH FOR HLMD1002"
+    "req": "To be determined"
   },
   {
     "courseCode": "SCNC1002",
-    "req": "ERROR: CANNOT FETCH FOR SCNC1002"
+    "req": "To be determined"
   },
   {
     "courseCode": "INTR8045",
-    "req": "ERROR: CANNOT FETCH FOR INTR8045"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BAPA3002",
@@ -5417,7 +5417,7 @@
   },
   {
     "courseCode": "CHMD8006",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8006"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "PHIL2113",
@@ -5441,11 +5441,11 @@
   },
   {
     "courseCode": "POPH8102",
-    "req": "ERROR: CANNOT FETCH FOR POPH8102"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "INTR8032",
-    "req": "ERROR: CANNOT FETCH FOR INTR8032"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA5925",
@@ -5453,7 +5453,7 @@
   },
   {
     "courseCode": "POGO8044",
-    "req": "ERROR: CANNOT FETCH FOR POGO8044"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HUMN6004",
@@ -5465,15 +5465,15 @@
   },
   {
     "courseCode": "ANTH8107",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8107"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DEMO1001",
-    "req": "ERROR: CANNOT FETCH FOR DEMO1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8043",
-    "req": "ERROR: CANNOT FETCH FOR INTR8043"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS4032",
@@ -5481,7 +5481,7 @@
   },
   {
     "courseCode": "POLS8032",
-    "req": "ERROR: CANNOT FETCH FOR POLS8032"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "GEND2034",
@@ -5493,7 +5493,7 @@
   },
   {
     "courseCode": "REGN8002",
-    "req": "ERROR: CANNOT FETCH FOR REGN8002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8022",
@@ -5501,7 +5501,7 @@
   },
   {
     "courseCode": "REGN8018",
-    "req": "ERROR: CANNOT FETCH FOR REGN8018"
+    "req": "Not applicable."
   },
   {
     "courseCode": "POGO8504",
@@ -5509,7 +5509,7 @@
   },
   {
     "courseCode": "REGN8023",
-    "req": "ERROR: CANNOT FETCH FOR REGN8023"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8066",
@@ -5517,7 +5517,7 @@
   },
   {
     "courseCode": "POGO8212",
-    "req": "ERROR: CANNOT FETCH FOR POGO8212"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS8220",
@@ -5525,7 +5525,7 @@
   },
   {
     "courseCode": "MGMT7067",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7067"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8064",
@@ -5533,11 +5533,11 @@
   },
   {
     "courseCode": "CRWF8000",
-    "req": "ERROR: CANNOT FETCH FOR CRWF8000"
+    "req": "Not applicable."
   },
   {
     "courseCode": "CRWF7900",
-    "req": "ERROR: CANNOT FETCH FOR CRWF7900"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MUSI8005",
@@ -5557,35 +5557,35 @@
   },
   {
     "courseCode": "IDEC7904",
-    "req": "ERROR: CANNOT FETCH FOR IDEC7904"
+    "req": "None."
   },
   {
     "courseCode": "CRWF7902",
-    "req": "ERROR: CANNOT FETCH FOR CRWF7902"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMDV7901",
-    "req": "ERROR: CANNOT FETCH FOR EMDV7901"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMDV7902",
-    "req": "ERROR: CANNOT FETCH FOR EMDV7902"
+    "req": "You will need to contact the Crawford School of Public Policy to request a permission code to enrol in this course."
   },
   {
     "courseCode": "IDEC7902",
-    "req": "ERROR: CANNOT FETCH FOR IDEC7902"
+    "req": "None."
   },
   {
     "courseCode": "POGO7901",
-    "req": "ERROR: CANNOT FETCH FOR POGO7901"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING8001",
-    "req": "ERROR: CANNOT FETCH FOR LING8001"
+    "req": "You will need to contact the School of Literature, Languages and Linguistics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ARCH8038",
-    "req": "ERROR: CANNOT FETCH FOR ARCH8038"
+    "req": "You will need to contact the School of Archaeology and Anthropology to request a permission code to enrol in this course."
   },
   {
     "courseCode": "LAWS8301",
@@ -5649,7 +5649,7 @@
   },
   {
     "courseCode": "DIPL8010",
-    "req": "ERROR: CANNOT FETCH FOR DIPL8010"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ECON6039",
@@ -5661,7 +5661,7 @@
   },
   {
     "courseCode": "SOCY8006",
-    "req": "ERROR: CANNOT FETCH FOR SOCY8006"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS8237",
@@ -5689,7 +5689,7 @@
   },
   {
     "courseCode": "BIOL8021",
-    "req": "ERROR: CANNOT FETCH FOR BIOL8021"
+    "req": "To be determined"
   },
   {
     "courseCode": "HLMD9001",
@@ -5701,15 +5701,15 @@
   },
   {
     "courseCode": "HLMD3000",
-    "req": "ERROR: CANNOT FETCH FOR HLMD3000"
+    "req": "Not yet determined"
   },
   {
     "courseCode": "HLMD8000",
-    "req": "ERROR: CANNOT FETCH FOR HLMD8000"
+    "req": "Not yet determined"
   },
   {
     "courseCode": "HLMD2000",
-    "req": "ERROR: CANNOT FETCH FOR HLMD2000"
+    "req": "Not yet determined"
   },
   {
     "courseCode": "HLMD8021",
@@ -5725,15 +5725,15 @@
   },
   {
     "courseCode": "HLTH1001",
-    "req": "ERROR: CANNOT FETCH FOR HLTH1001"
+    "req": "No specific inherent requirements have been identified for this course."
   },
   {
     "courseCode": "HUMN8033",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8033"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HUMN8040",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8040"
+    "req": "The field school requires students to travel overseas and pay extra costs, including flights, accommodation and local transportation. Students with mobility concerns should contact the course convenor to discuss adjustments."
   },
   {
     "courseCode": "COMP3320",
@@ -5773,7 +5773,7 @@
   },
   {
     "courseCode": "NSPO8028",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8028"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ANTH4011",
@@ -5797,7 +5797,7 @@
   },
   {
     "courseCode": "ASIA6037",
-    "req": "ERROR: CANNOT FETCH FOR ASIA6037"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ASIA2037",
@@ -5817,7 +5817,7 @@
   },
   {
     "courseCode": "ARTV1033",
-    "req": "ERROR: CANNOT FETCH FOR ARTV1033"
+    "req": "Not applicable"
   },
   {
     "courseCode": "STST3003",
@@ -5841,11 +5841,11 @@
   },
   {
     "courseCode": "NSPO8047",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8047"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI8301",
-    "req": "ERROR: CANNOT FETCH FOR PASI8301"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MEDN3186",
@@ -5853,7 +5853,7 @@
   },
   {
     "courseCode": "BIOL1008",
-    "req": "ERROR: CANNOT FETCH FOR BIOL1008"
+    "req": "In this course, students learn about the role of experiments in biology, by attending workshops and completing laboratory activities. This requires students to be able to:"
   },
   {
     "courseCode": "ENVS2011",
@@ -5873,7 +5873,7 @@
   },
   {
     "courseCode": "POPH8318",
-    "req": "ERROR: CANNOT FETCH FOR POPH8318"
+    "req": "No specific inherent requirements have been identified for this course."
   },
   {
     "courseCode": "ASIA2301",
@@ -5881,11 +5881,11 @@
   },
   {
     "courseCode": "SOCR8015",
-    "req": "ERROR: CANNOT FETCH FOR SOCR8015"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT2030",
-    "req": "ERROR: CANNOT FETCH FOR MGMT2030"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "POLS2113",
@@ -5925,7 +5925,7 @@
   },
   {
     "courseCode": "INTR8062",
-    "req": "ERROR: CANNOT FETCH FOR INTR8062"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BAPA3001",
@@ -5949,7 +5949,7 @@
   },
   {
     "courseCode": "ENGL2111",
-    "req": "ERROR: CANNOT FETCH FOR ENGL2111"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGL6111",
@@ -5973,7 +5973,7 @@
   },
   {
     "courseCode": "EMDV8103",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8103"
+    "req": "None"
   },
   {
     "courseCode": "LAWS8421",
@@ -5985,7 +5985,7 @@
   },
   {
     "courseCode": "ENVS8100",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8100"
+    "req": "No specific inherent requirements have been identified for this course, but this may vary from project to project."
   },
   {
     "courseCode": "ENVS3100",
@@ -6013,7 +6013,7 @@
   },
   {
     "courseCode": "MUSC8006",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8006"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS4278",
@@ -6033,15 +6033,15 @@
   },
   {
     "courseCode": "DIPL8019",
-    "req": "ERROR: CANNOT FETCH FOR DIPL8019"
+    "req": "You will need to contact the Coral Bell School of Asia Pacific Affairs to request a permission code to enrol in this course."
   },
   {
     "courseCode": "HUMN8039",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8039"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CHMD8021",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8021"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INDG8002",
@@ -6145,7 +6145,7 @@
   },
   {
     "courseCode": "ENGN8833",
-    "req": "ERROR: CANNOT FETCH FOR ENGN8833"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "COMP4800",
@@ -6153,7 +6153,7 @@
   },
   {
     "courseCode": "ECON4438",
-    "req": "ERROR: CANNOT FETCH FOR ECON4438"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON3057",
@@ -6169,7 +6169,7 @@
   },
   {
     "courseCode": "INFS8202",
-    "req": "ERROR: CANNOT FETCH FOR INFS8202"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "BIOL3141",
@@ -6217,7 +6217,7 @@
   },
   {
     "courseCode": "MGMT7165",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7165"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "MGMT7251",
@@ -6237,7 +6237,7 @@
   },
   {
     "courseCode": "ENGN8831",
-    "req": "ERROR: CANNOT FETCH FOR ENGN8831"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "LAWS8422",
@@ -6249,7 +6249,7 @@
   },
   {
     "courseCode": "STST8021",
-    "req": "ERROR: CANNOT FETCH FOR STST8021"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INFS8008",
@@ -6261,7 +6261,7 @@
   },
   {
     "courseCode": "HUMN9002",
-    "req": "ERROR: CANNOT FETCH FOR HUMN9002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS8046",
@@ -6329,7 +6329,7 @@
   },
   {
     "courseCode": "POGO8098",
-    "req": "ERROR: CANNOT FETCH FOR POGO8098"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "LAWS4266",
@@ -6353,15 +6353,15 @@
   },
   {
     "courseCode": "BUSI4500",
-    "req": "ERROR: CANNOT FETCH FOR BUSI4500"
+    "req": "Agreement from a supervisor to supervise the research project and resulting thesis."
   },
   {
     "courseCode": "BUSI7033",
-    "req": "ERROR: CANNOT FETCH FOR BUSI7033"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "EMDV8080",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8080"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS8418",
@@ -6381,7 +6381,7 @@
   },
   {
     "courseCode": "ECON4415",
-    "req": "ERROR: CANNOT FETCH FOR ECON4415"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ECON3103",
@@ -6401,7 +6401,7 @@
   },
   {
     "courseCode": "ASIA8049",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8049"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT3025",
@@ -6413,7 +6413,7 @@
   },
   {
     "courseCode": "INDG8006",
-    "req": "ERROR: CANNOT FETCH FOR INDG8006"
+    "req": "You will need to contact the Centre for Aboriginal Economic Policy Research to request a permission code to enrol in this course."
   },
   {
     "courseCode": "LAWS8177",
@@ -6469,7 +6469,7 @@
   },
   {
     "courseCode": "DEMO8047",
-    "req": "ERROR: CANNOT FETCH FOR DEMO8047"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ECON8009",
@@ -6497,11 +6497,11 @@
   },
   {
     "courseCode": "POGO8045",
-    "req": "ERROR: CANNOT FETCH FOR POGO8045"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8013",
-    "req": "ERROR: CANNOT FETCH FOR INTR8013"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS8252",
@@ -6517,7 +6517,7 @@
   },
   {
     "courseCode": "INTR8011",
-    "req": "ERROR: CANNOT FETCH FOR INTR8011"
+    "req": "Not Applicable"
   },
   {
     "courseCode": "POLS4013",
@@ -6529,11 +6529,11 @@
   },
   {
     "courseCode": "INTR8022",
-    "req": "ERROR: CANNOT FETCH FOR INTR8022"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8066",
-    "req": "ERROR: CANNOT FETCH FOR INTR8066"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BUSI3020",
@@ -6561,11 +6561,11 @@
   },
   {
     "courseCode": "MUSC8004",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8004"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MUSC8005",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS4047",
@@ -6577,7 +6577,7 @@
   },
   {
     "courseCode": "INTR8078",
-    "req": "ERROR: CANNOT FETCH FOR INTR8078"
+    "req": "N/A"
   },
   {
     "courseCode": "ARTV1501",
@@ -6585,11 +6585,11 @@
   },
   {
     "courseCode": "ARCH8032",
-    "req": "ERROR: CANNOT FETCH FOR ARCH8032"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA1035",
-    "req": "ERROR: CANNOT FETCH FOR ASIA1035"
+    "req": "Not applicable"
   },
   {
     "courseCode": "STAT3016",
@@ -6641,7 +6641,7 @@
   },
   {
     "courseCode": "ENGN1218",
-    "req": "ERROR: CANNOT FETCH FOR ENGN1218"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH6041",
@@ -6677,7 +6677,7 @@
   },
   {
     "courseCode": "ARTV1301",
-    "req": "ERROR: CANNOT FETCH FOR ARTV1301"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMSC2022",
@@ -6697,7 +6697,7 @@
   },
   {
     "courseCode": "POPH8103",
-    "req": "ERROR: CANNOT FETCH FOR POPH8103"
+    "req": "No specific inherent requirements have been identified for this course."
   },
   {
     "courseCode": "HUMN2000",
@@ -6705,11 +6705,11 @@
   },
   {
     "courseCode": "ANTH8056",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8056"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS1006",
-    "req": "ERROR: CANNOT FETCH FOR POLS1006"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "POLS1005",
@@ -6721,7 +6721,7 @@
   },
   {
     "courseCode": "STST1001",
-    "req": "ERROR: CANNOT FETCH FOR STST1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CHEM8034",
@@ -6737,7 +6737,7 @@
   },
   {
     "courseCode": "MKTG2004",
-    "req": "ERROR: CANNOT FETCH FOR MKTG2004"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "MATH2222",
@@ -6749,7 +6749,7 @@
   },
   {
     "courseCode": "ENGN1217",
-    "req": "ERROR: CANNOT FETCH FOR ENGN1217"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "MUSI6110",
@@ -6769,7 +6769,7 @@
   },
   {
     "courseCode": "POLS1002",
-    "req": "ERROR: CANNOT FETCH FOR POLS1002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POPH3000",
@@ -6801,7 +6801,7 @@
   },
   {
     "courseCode": "RUSS1003",
-    "req": "ERROR: CANNOT FETCH FOR RUSS1003"
+    "req": "Not applicable"
   },
   {
     "courseCode": "RUSS1004",
@@ -6841,7 +6841,7 @@
   },
   {
     "courseCode": "ARTV1902",
-    "req": "ERROR: CANNOT FETCH FOR ARTV1902"
+    "req": "n/a"
   },
   {
     "courseCode": "ARTV1102",
@@ -6853,7 +6853,7 @@
   },
   {
     "courseCode": "MEAS1001",
-    "req": "ERROR: CANNOT FETCH FOR MEAS1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING1001",
@@ -6949,7 +6949,7 @@
   },
   {
     "courseCode": "IDEC8035",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8035"
+    "req": "None."
   },
   {
     "courseCode": "MEAS4102",
@@ -6973,15 +6973,15 @@
   },
   {
     "courseCode": "IDEC8030",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8030"
+    "req": "none"
   },
   {
     "courseCode": "IDEC8029",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8029"
+    "req": "Not applicable."
   },
   {
     "courseCode": "INTR8017",
-    "req": "ERROR: CANNOT FETCH FOR INTR8017"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PSYC2595",
@@ -6997,7 +6997,7 @@
   },
   {
     "courseCode": "IDEC8003",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8003"
+    "req": "None."
   },
   {
     "courseCode": "POLS2094",
@@ -7013,7 +7013,7 @@
   },
   {
     "courseCode": "MEAS8108",
-    "req": "ERROR: CANNOT FETCH FOR MEAS8108"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ITAL2006",
@@ -7053,7 +7053,7 @@
   },
   {
     "courseCode": "INTR8063",
-    "req": "ERROR: CANNOT FETCH FOR INTR8063"
+    "req": "Not applicable"
   },
   {
     "courseCode": "JPNS3013",
@@ -7061,7 +7061,7 @@
   },
   {
     "courseCode": "JPNS1012",
-    "req": "ERROR: CANNOT FETCH FOR JPNS1012"
+    "req": "Not applicable"
   },
   {
     "courseCode": "JPNS1014",
@@ -7137,7 +7137,7 @@
   },
   {
     "courseCode": "BUSN8200",
-    "req": "ERROR: CANNOT FETCH FOR BUSN8200"
+    "req": "You will need to contact the Research School of Accounting to request a permission code to enrol in this course."
   },
   {
     "courseCode": "LAWS4351",
@@ -7149,11 +7149,11 @@
   },
   {
     "courseCode": "ANTH8007",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8007"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8052",
-    "req": "ERROR: CANNOT FETCH FOR INTR8052"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HIST4013",
@@ -7161,7 +7161,7 @@
   },
   {
     "courseCode": "INTR8088",
-    "req": "ERROR: CANNOT FETCH FOR INTR8088"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS4313",
@@ -7173,7 +7173,7 @@
   },
   {
     "courseCode": "POGO8241",
-    "req": "ERROR: CANNOT FETCH FOR POGO8241"
+    "req": "Not applicable"
   },
   {
     "courseCode": "KORE1020",
@@ -7337,7 +7337,7 @@
   },
   {
     "courseCode": "LAWS4011",
-    "req": "ERROR: CANNOT FETCH FOR LAWS4011"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS6011",
@@ -7381,7 +7381,7 @@
   },
   {
     "courseCode": "PASI8312",
-    "req": "ERROR: CANNOT FETCH FOR PASI8312"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS8586",
@@ -7473,7 +7473,7 @@
   },
   {
     "courseCode": "MGMT8270",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8270"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "POGO8067",
@@ -7501,7 +7501,7 @@
   },
   {
     "courseCode": "KORE2525",
-    "req": "ERROR: CANNOT FETCH FOR KORE2525"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS4307",
@@ -7561,15 +7561,15 @@
   },
   {
     "courseCode": "DEMO8092",
-    "req": "ERROR: CANNOT FETCH FOR DEMO8092"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "POPH8918",
-    "req": "ERROR: CANNOT FETCH FOR POPH8918"
+    "req": "."
   },
   {
     "courseCode": "PHYS1004",
-    "req": "ERROR: CANNOT FETCH FOR PHYS1004"
+    "req": "To be determined"
   },
   {
     "courseCode": "CLAS3002",
@@ -7649,7 +7649,7 @@
   },
   {
     "courseCode": "IDEC8002",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8002"
+    "req": "Not applicable."
   },
   {
     "courseCode": "ECON4422",
@@ -7685,7 +7685,7 @@
   },
   {
     "courseCode": "DESN2010",
-    "req": "ERROR: CANNOT FETCH FOR DESN2010"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HIST3007",
@@ -7709,7 +7709,7 @@
   },
   {
     "courseCode": "MGMT4500",
-    "req": "ERROR: CANNOT FETCH FOR MGMT4500"
+    "req": "Agreement from a supervisor to supervise the research project and resulting thesis."
   },
   {
     "courseCode": "MGMT4006",
@@ -7721,7 +7721,7 @@
   },
   {
     "courseCode": "MGMT1003",
-    "req": "ERROR: CANNOT FETCH FOR MGMT1003"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "ECON6014",
@@ -7745,15 +7745,15 @@
   },
   {
     "courseCode": "POGO8057",
-    "req": "ERROR: CANNOT FETCH FOR POGO8057"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT8062",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8062"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "MGMT2035",
-    "req": "ERROR: CANNOT FETCH FOR MGMT2035"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8300",
@@ -7773,11 +7773,11 @@
   },
   {
     "courseCode": "BUSI7280",
-    "req": "ERROR: CANNOT FETCH FOR BUSI7280"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "BUSI7001",
-    "req": "ERROR: CANNOT FETCH FOR BUSI7001"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "ENGN4212",
@@ -7789,11 +7789,11 @@
   },
   {
     "courseCode": "ASIA2018",
-    "req": "ERROR: CANNOT FETCH FOR ASIA2018"
+    "req": "In-person attendance at lab sessions and ability to use & access a computer."
   },
   {
     "courseCode": "ASIA6018",
-    "req": "ERROR: CANNOT FETCH FOR ASIA6018"
+    "req": "Attendance at lab sessions and ability to use & access a computer."
   },
   {
     "courseCode": "EMSC3023",
@@ -7809,7 +7809,7 @@
   },
   {
     "courseCode": "MKTG4500",
-    "req": "ERROR: CANNOT FETCH FOR MKTG4500"
+    "req": "Agreement from a supervisor to supervise the research project and resulting thesis."
   },
   {
     "courseCode": "MKTG7260",
@@ -7833,19 +7833,19 @@
   },
   {
     "courseCode": "BUSN8802",
-    "req": "ERROR: CANNOT FETCH FOR BUSN8802"
+    "req": "You will need to contact the Research School of Accounting to request a permission code to enrol in this course."
   },
   {
     "courseCode": "BUSN8803",
-    "req": "ERROR: CANNOT FETCH FOR BUSN8803"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN8180",
-    "req": "ERROR: CANNOT FETCH FOR ENGN8180"
+    "req": "You will need to contact the School of Engineering to request a permission code to enrol in this course."
   },
   {
     "courseCode": "PHYS8207",
-    "req": "ERROR: CANNOT FETCH FOR PHYS8207"
+    "req": "To be determined"
   },
   {
     "courseCode": "SCOM8000",
@@ -7857,7 +7857,7 @@
   },
   {
     "courseCode": "ARCH8037",
-    "req": "ERROR: CANNOT FETCH FOR ARCH8037"
+    "req": "Not applicable"
   },
   {
     "courseCode": "IDEC8064",
@@ -7873,19 +7873,19 @@
   },
   {
     "courseCode": "MATH8705",
-    "req": "ERROR: CANNOT FETCH FOR MATH8705"
+    "req": "To be determined"
   },
   {
     "courseCode": "PHYS8750",
-    "req": "ERROR: CANNOT FETCH FOR PHYS8750"
+    "req": "To be determined"
   },
   {
     "courseCode": "ENVS8000",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8000"
+    "req": "To be determined"
   },
   {
     "courseCode": "ENVS8000P",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8000P"
+    "req": "To be determined"
   },
   {
     "courseCode": "CHEM2213",
@@ -7897,7 +7897,7 @@
   },
   {
     "courseCode": "MUSI1510",
-    "req": "ERROR: CANNOT FETCH FOR MUSI1510"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MATH1113",
@@ -7905,19 +7905,19 @@
   },
   {
     "courseCode": "IDEC8015",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8015"
+    "req": "Not applicable."
   },
   {
     "courseCode": "EMET7001",
-    "req": "ERROR: CANNOT FETCH FOR EMET7001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MATH8702",
-    "req": "ERROR: CANNOT FETCH FOR MATH8702"
+    "req": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course."
   },
   {
     "courseCode": "MATH8701",
-    "req": "ERROR: CANNOT FETCH FOR MATH8701"
+    "req": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course."
   },
   {
     "courseCode": "MATH1013",
@@ -7937,7 +7937,7 @@
   },
   {
     "courseCode": "POLS2137",
-    "req": "ERROR: CANNOT FETCH FOR POLS2137"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN2217",
@@ -7985,7 +7985,7 @@
   },
   {
     "courseCode": "MEDN8701",
-    "req": "ERROR: CANNOT FETCH FOR MEDN8701"
+    "req": "You will need to contact the John Curtin School of Medical Research to request a permission code to enrol in this course."
   },
   {
     "courseCode": "BIOL3190",
@@ -8025,7 +8025,7 @@
   },
   {
     "courseCode": "INTR8086",
-    "req": "ERROR: CANNOT FETCH FOR INTR8086"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMSC6032",
@@ -8037,7 +8037,7 @@
   },
   {
     "courseCode": "PHIL2129",
-    "req": "ERROR: CANNOT FETCH FOR PHIL2129"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTV8041",
@@ -8057,7 +8057,7 @@
   },
   {
     "courseCode": "IDEC8016",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8016"
+    "req": "Not applicable."
   },
   {
     "courseCode": "ECON4411",
@@ -8069,7 +8069,7 @@
   },
   {
     "courseCode": "ECON1101",
-    "req": "ERROR: CANNOT FETCH FOR ECON1101"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ECON2101",
@@ -8089,23 +8089,23 @@
   },
   {
     "courseCode": "MEAS6508",
-    "req": "ERROR: CANNOT FETCH FOR MEAS6508"
+    "req": "This is a study tour course, students must be able to travel internationally."
   },
   {
     "courseCode": "IDEC8034",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8034"
+    "req": "None."
   },
   {
     "courseCode": "DEMO2003",
-    "req": "ERROR: CANNOT FETCH FOR DEMO2003"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCR8011",
-    "req": "ERROR: CANNOT FETCH FOR SOCR8011"
+    "req": "Not applicable"
   },
   {
     "courseCode": "IDEC8127",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8127"
+    "req": "None"
   },
   {
     "courseCode": "CHIN1012",
@@ -8205,7 +8205,7 @@
   },
   {
     "courseCode": "ARTV2125",
-    "req": "ERROR: CANNOT FETCH FOR ARTV2125"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SCRN2001",
@@ -8213,7 +8213,7 @@
   },
   {
     "courseCode": "MUSC8017",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8017"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MUSC8011",
@@ -8305,7 +8305,7 @@
   },
   {
     "courseCode": "MUSI2227",
-    "req": "ERROR: CANNOT FETCH FOR MUSI2227"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "SPAN2102",
@@ -8329,7 +8329,7 @@
   },
   {
     "courseCode": "HIST8026",
-    "req": "ERROR: CANNOT FETCH FOR HIST8026"
+    "req": "Not applicable"
   },
   {
     "courseCode": "NSPO8006",
@@ -8337,7 +8337,7 @@
   },
   {
     "courseCode": "NSPO8050",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8050"
+    "req": "Not applicable"
   },
   {
     "courseCode": "NSPO8007",
@@ -8345,7 +8345,7 @@
   },
   {
     "courseCode": "ASIA8020",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8020"
+    "req": "An undergraduate degree in the humanities or social sciences"
   },
   {
     "courseCode": "ASIA2093",
@@ -8357,7 +8357,7 @@
   },
   {
     "courseCode": "MGMT2004",
-    "req": "ERROR: CANNOT FETCH FOR MGMT2004"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "DIPL8044",
@@ -8365,7 +8365,7 @@
   },
   {
     "courseCode": "ENGN6628",
-    "req": "ERROR: CANNOT FETCH FOR ENGN6628"
+    "req": "Not applicable"
   },
   {
     "courseCode": "COMP3704",
@@ -8401,11 +8401,11 @@
   },
   {
     "courseCode": "NEUR8704",
-    "req": "ERROR: CANNOT FETCH FOR NEUR8704"
+    "req": "To be determined"
   },
   {
     "courseCode": "NEUR4005",
-    "req": "ERROR: CANNOT FETCH FOR NEUR4005"
+    "req": "You will need to contact the John Curtin School of Medical Research to request a permission code to enrol in this course."
   },
   {
     "courseCode": "NEUR8010",
@@ -8413,7 +8413,7 @@
   },
   {
     "courseCode": "NEUR8700",
-    "req": "ERROR: CANNOT FETCH FOR NEUR8700"
+    "req": "To be determined"
   },
   {
     "courseCode": "MEAS2001",
@@ -8421,7 +8421,7 @@
   },
   {
     "courseCode": "MGMT7161",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7161"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "PHIL2087",
@@ -8429,7 +8429,7 @@
   },
   {
     "courseCode": "ENGN9820",
-    "req": "ERROR: CANNOT FETCH FOR ENGN9820"
+    "req": "You will need to contact the School of Engineering to request a permission code to enrol in this course."
   },
   {
     "courseCode": "PHYS4303",
@@ -8453,11 +8453,11 @@
   },
   {
     "courseCode": "PHYS8206",
-    "req": "ERROR: CANNOT FETCH FOR PHYS8206"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "STST8026",
-    "req": "ERROR: CANNOT FETCH FOR STST8026"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PHYS3106",
@@ -8589,11 +8589,11 @@
   },
   {
     "courseCode": "PHYS8017",
-    "req": "ERROR: CANNOT FETCH FOR PHYS8017"
+    "req": "To be determined"
   },
   {
     "courseCode": "HUMN8038",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8038"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CRIM2007",
@@ -8601,15 +8601,15 @@
   },
   {
     "courseCode": "MATH6405",
-    "req": "ERROR: CANNOT FETCH FOR MATH6405"
+    "req": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course."
   },
   {
     "courseCode": "MGMT2007",
-    "req": "ERROR: CANNOT FETCH FOR MGMT2007"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "MGMT8003",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8003"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "ECON4492",
@@ -8665,11 +8665,11 @@
   },
   {
     "courseCode": "DIPL8013",
-    "req": "ERROR: CANNOT FETCH FOR DIPL8013"
+    "req": "Not applicable"
   },
   {
     "courseCode": "IDEC8037",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8037"
+    "req": "Not applicable."
   },
   {
     "courseCode": "BAPA1003",
@@ -8685,15 +8685,15 @@
   },
   {
     "courseCode": "PASI8305",
-    "req": "ERROR: CANNOT FETCH FOR PASI8305"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI8002",
-    "req": "ERROR: CANNOT FETCH FOR PASI8002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI8004",
-    "req": "ERROR: CANNOT FETCH FOR PASI8004"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI3005",
@@ -8717,7 +8717,7 @@
   },
   {
     "courseCode": "PASI1012",
-    "req": "ERROR: CANNOT FETCH FOR PASI1012"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTV2507",
@@ -8773,7 +8773,7 @@
   },
   {
     "courseCode": "MATH6406",
-    "req": "ERROR: CANNOT FETCH FOR MATH6406"
+    "req": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course."
   },
   {
     "courseCode": "POGO8136",
@@ -8789,7 +8789,7 @@
   },
   {
     "courseCode": "ENVS8018",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8018"
+    "req": "To be determined"
   },
   {
     "courseCode": "MEDN2002",
@@ -8817,15 +8817,15 @@
   },
   {
     "courseCode": "CHMD8014",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8014"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "POGO8232",
-    "req": "ERROR: CANNOT FETCH FOR POGO8232"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PHIL2122",
-    "req": "ERROR: CANNOT FETCH FOR PHIL2122"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PHIL2123",
@@ -8901,7 +8901,7 @@
   },
   {
     "courseCode": "ENGN8830",
-    "req": "ERROR: CANNOT FETCH FOR ENGN8830"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN4524",
@@ -8949,7 +8949,7 @@
   },
   {
     "courseCode": "EMSC4008",
-    "req": "ERROR: CANNOT FETCH FOR EMSC4008"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SPAN2107",
@@ -9001,15 +9001,15 @@
   },
   {
     "courseCode": "POGO8083",
-    "req": "ERROR: CANNOT FETCH FOR POGO8083"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8096",
-    "req": "ERROR: CANNOT FETCH FOR POGO8096"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8233",
-    "req": "ERROR: CANNOT FETCH FOR POGO8233"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS2102",
@@ -9017,7 +9017,7 @@
   },
   {
     "courseCode": "PASI8009",
-    "req": "ERROR: CANNOT FETCH FOR PASI8009"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS3039",
@@ -9045,7 +9045,7 @@
   },
   {
     "courseCode": "POLS2069",
-    "req": "ERROR: CANNOT FETCH FOR POLS2069"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS2031",
@@ -9081,11 +9081,11 @@
   },
   {
     "courseCode": "POPH4005",
-    "req": "ERROR: CANNOT FETCH FOR POPH4005"
+    "req": "No specific inherent requirements have been identified for this course."
   },
   {
     "courseCode": "DEMO8090",
-    "req": "ERROR: CANNOT FETCH FOR DEMO8090"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DEMO3001",
@@ -9121,7 +9121,7 @@
   },
   {
     "courseCode": "PHIL9011",
-    "req": "ERROR: CANNOT FETCH FOR PHIL9011"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCY3010",
@@ -9137,7 +9137,7 @@
   },
   {
     "courseCode": "POGO8004",
-    "req": "ERROR: CANNOT FETCH FOR POGO8004"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN6625",
@@ -9193,7 +9193,7 @@
   },
   {
     "courseCode": "PHYS8013",
-    "req": "ERROR: CANNOT FETCH FOR PHYS8013"
+    "req": "To  be determined"
   },
   {
     "courseCode": "LAWS8182",
@@ -9201,7 +9201,7 @@
   },
   {
     "courseCode": "MGMT8999",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8999"
+    "req": "No inherent requirements"
   },
   {
     "courseCode": "STAT7039",
@@ -9233,7 +9233,7 @@
   },
   {
     "courseCode": "POGO8084",
-    "req": "ERROR: CANNOT FETCH FOR POGO8084"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BUSN3014",
@@ -9245,7 +9245,7 @@
   },
   {
     "courseCode": "ARTV2727",
-    "req": "ERROR: CANNOT FETCH FOR ARTV2727"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "LAWS6304",
@@ -9273,7 +9273,7 @@
   },
   {
     "courseCode": "ARCH6066",
-    "req": "ERROR: CANNOT FETCH FOR ARCH6066"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CRIM3001",
@@ -9353,11 +9353,11 @@
   },
   {
     "courseCode": "HUMN4005",
-    "req": "ERROR: CANNOT FETCH FOR HUMN4005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT8170",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8170"
+    "req": "Agreement from a supervisor to supervise the research project and resulting thesis."
   },
   {
     "courseCode": "INFS3059",
@@ -9365,15 +9365,15 @@
   },
   {
     "courseCode": "MGMT7024",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7024"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "MGMT8005",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8005"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "CECS8002",
-    "req": "ERROR: CANNOT FETCH FOR CECS8002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CYBN8002",
@@ -9417,11 +9417,11 @@
   },
   {
     "courseCode": "PSYC4011",
-    "req": "ERROR: CANNOT FETCH FOR PSYC4011"
+    "req": "To be determined."
   },
   {
     "courseCode": "PSYC3030",
-    "req": "ERROR: CANNOT FETCH FOR PSYC3030"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PSYC3025",
@@ -9429,7 +9429,7 @@
   },
   {
     "courseCode": "POGO8137",
-    "req": "ERROR: CANNOT FETCH FOR POGO8137"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS2130",
@@ -9437,7 +9437,7 @@
   },
   {
     "courseCode": "POGO8048",
-    "req": "ERROR: CANNOT FETCH FOR POGO8048"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "POGO8301",
@@ -9457,11 +9457,11 @@
   },
   {
     "courseCode": "CRWF8019",
-    "req": "ERROR: CANNOT FETCH FOR CRWF8019"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8132",
-    "req": "ERROR: CANNOT FETCH FOR POGO8132"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS2002",
@@ -9477,7 +9477,7 @@
   },
   {
     "courseCode": "ECON4434",
-    "req": "ERROR: CANNOT FETCH FOR ECON4434"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON8034",
@@ -9493,11 +9493,11 @@
   },
   {
     "courseCode": "POGO8021",
-    "req": "ERROR: CANNOT FETCH FOR POGO8021"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8062",
-    "req": "ERROR: CANNOT FETCH FOR POGO8062"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT8106",
@@ -9505,7 +9505,7 @@
   },
   {
     "courseCode": "POGO8236",
-    "req": "ERROR: CANNOT FETCH FOR POGO8236"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CRIM2008",
@@ -9513,11 +9513,11 @@
   },
   {
     "courseCode": "CHMD8004",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8004"
+    "req": "To be determined"
   },
   {
     "courseCode": "POLS3045",
-    "req": "ERROR: CANNOT FETCH FOR POLS3045"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCR4003",
@@ -9581,7 +9581,7 @@
   },
   {
     "courseCode": "IDEC8012",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8012"
+    "req": ""
   },
   {
     "courseCode": "PSYC2009",
@@ -9589,7 +9589,7 @@
   },
   {
     "courseCode": "IDEC8026",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8026"
+    "req": "Not applicable."
   },
   {
     "courseCode": "SOCY3005",
@@ -9605,11 +9605,11 @@
   },
   {
     "courseCode": "LING9027",
-    "req": "ERROR: CANNOT FETCH FOR LING9027"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING8027",
-    "req": "ERROR: CANNOT FETCH FOR LING8027"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT8019",
@@ -9621,7 +9621,7 @@
   },
   {
     "courseCode": "POLS8042",
-    "req": "ERROR: CANNOT FETCH FOR POLS8042"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCR4009",
@@ -9681,7 +9681,7 @@
   },
   {
     "courseCode": "INTR8083",
-    "req": "ERROR: CANNOT FETCH FOR INTR8083"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HIST2133",
@@ -9689,7 +9689,7 @@
   },
   {
     "courseCode": "POLS2135",
-    "req": "ERROR: CANNOT FETCH FOR POLS2135"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "PHYS6701",
@@ -9701,7 +9701,7 @@
   },
   {
     "courseCode": "PHYS8202",
-    "req": "ERROR: CANNOT FETCH FOR PHYS8202"
+    "req": "To be determined"
   },
   {
     "courseCode": "CHST3211",
@@ -9713,15 +9713,15 @@
   },
   {
     "courseCode": "GEND1002",
-    "req": "ERROR: CANNOT FETCH FOR GEND1002"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "GEND6002",
-    "req": "ERROR: CANNOT FETCH FOR GEND6002"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "LING8003",
-    "req": "ERROR: CANNOT FETCH FOR LING8003"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ASIA3012",
@@ -9729,11 +9729,11 @@
   },
   {
     "courseCode": "HIST8021",
-    "req": "ERROR: CANNOT FETCH FOR HIST8021"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI3012",
-    "req": "ERROR: CANNOT FETCH FOR PASI3012"
+    "req": "You will need to contact the School of Culture History and Language to request a permission code to enrol in this course."
   },
   {
     "courseCode": "INDG9002",
@@ -9741,7 +9741,7 @@
   },
   {
     "courseCode": "NEUR8701",
-    "req": "ERROR: CANNOT FETCH FOR NEUR8701"
+    "req": "You will need to contact the John Curtin School of Medical Research to request a permission code to enrol in this course."
   },
   {
     "courseCode": "BIAN8003",
@@ -9761,7 +9761,7 @@
   },
   {
     "courseCode": "ASIA6042",
-    "req": "ERROR: CANNOT FETCH FOR ASIA6042"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BIOL6178",
@@ -9773,7 +9773,7 @@
   },
   {
     "courseCode": "CHMD8011",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8011"
+    "req": "This course includes a 2-hour site visit to a resettlement organisation (health service, settlement agency). Online students and/or EAP students will be supported to develop an equivalent to this site visit. Students will be responsible for organising their own travel."
   },
   {
     "courseCode": "LAWS8471",
@@ -9793,7 +9793,7 @@
   },
   {
     "courseCode": "INTR8082",
-    "req": "ERROR: CANNOT FETCH FOR INTR8082"
+    "req": "Not applicable"
   },
   {
     "courseCode": "STAT2008",
@@ -9817,27 +9817,27 @@
   },
   {
     "courseCode": "REGN8049",
-    "req": "ERROR: CANNOT FETCH FOR REGN8049"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8024",
-    "req": "ERROR: CANNOT FETCH FOR REGN8024"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8052",
-    "req": "ERROR: CANNOT FETCH FOR REGN8052"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8009",
-    "req": "ERROR: CANNOT FETCH FOR REGN8009"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8057",
-    "req": "ERROR: CANNOT FETCH FOR REGN8057"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8051",
-    "req": "ERROR: CANNOT FETCH FOR REGN8051"
+    "req": "Not applicable"
   },
   {
     "courseCode": "COMP2400",
@@ -9869,15 +9869,15 @@
   },
   {
     "courseCode": "MUSC8022",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8022"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MUSC8019",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8019"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CHMD8005",
-    "req": "ERROR: CANNOT FETCH FOR CHMD8005"
+    "req": "No specific inherent requirements have been identified for this course"
   },
   {
     "courseCode": "BIAN6019",
@@ -9901,11 +9901,11 @@
   },
   {
     "courseCode": "INTR8072",
-    "req": "ERROR: CANNOT FETCH FOR INTR8072"
+    "req": "Not applicable."
   },
   {
     "courseCode": "ARCH9106",
-    "req": "ERROR: CANNOT FETCH FOR ARCH9106"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PHIL4009",
@@ -9913,7 +9913,7 @@
   },
   {
     "courseCode": "POLS8058",
-    "req": "ERROR: CANNOT FETCH FOR POLS8058"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ACST8050",
@@ -9925,15 +9925,15 @@
   },
   {
     "courseCode": "ARTH4027",
-    "req": "ERROR: CANNOT FETCH FOR ARTH4027"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTH8027",
-    "req": "ERROR: CANNOT FETCH FOR ARTH8027"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCY3001",
-    "req": "ERROR: CANNOT FETCH FOR SOCY3001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PSYC8411",
@@ -9949,7 +9949,7 @@
   },
   {
     "courseCode": "EMDV8102",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8102"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SCOM4019",
@@ -9957,11 +9957,11 @@
   },
   {
     "courseCode": "ASIA4044",
-    "req": "ERROR: CANNOT FETCH FOR ASIA4044"
+    "req": "Advanced level of proficiency in Literary Chinese and/or Modern Chinese, comparable to proficiency requirements for enrolling in\nCHIN3015\n(i.e. completion of\nCHIN2021\nor entry permitted on the basis of the Chinese Language Proficiency Assessment)."
   },
   {
     "courseCode": "ASIA8044",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8044"
+    "req": "Advanced level of proficiency in Literary Chinese and/or Modern Chinese, comparable to proficiency requirements for enrolling in\nCHIN3015\n(i.e. completion of\nCHIN2021\nor entry permitted on the basis of the Chinese Language Proficiency Assessment)."
   },
   {
     "courseCode": "SCOM8019",
@@ -9993,7 +9993,7 @@
   },
   {
     "courseCode": "ENGN8602",
-    "req": "ERROR: CANNOT FETCH FOR ENGN8602"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN8601",
@@ -10033,7 +10033,7 @@
   },
   {
     "courseCode": "CHEM8003",
-    "req": "ERROR: CANNOT FETCH FOR CHEM8003"
+    "req": "You will need to contact the Research School of Chemistry to request a permission code to enrol in this course."
   },
   {
     "courseCode": "CHEM8033",
@@ -10045,7 +10045,7 @@
   },
   {
     "courseCode": "BIOL8700",
-    "req": "ERROR: CANNOT FETCH FOR BIOL8700"
+    "req": "To be determined"
   },
   {
     "courseCode": "PHYS3042",
@@ -10069,23 +10069,23 @@
   },
   {
     "courseCode": "POLS1009",
-    "req": "ERROR: CANNOT FETCH FOR POLS1009"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENVS8013",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8013"
+    "req": "To be determined"
   },
   {
     "courseCode": "EMDV8014",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8014"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POPM8001",
-    "req": "ERROR: CANNOT FETCH FOR POPM8001"
+    "req": "No specific inherent requirements have been identified for this course."
   },
   {
     "courseCode": "INDG1002",
-    "req": "ERROR: CANNOT FETCH FOR INDG1002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ECON6040",
@@ -10097,7 +10097,7 @@
   },
   {
     "courseCode": "EMDV8018",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8018"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT8104",
@@ -10113,11 +10113,11 @@
   },
   {
     "courseCode": "HUMN8036",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8036"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8005",
-    "req": "ERROR: CANNOT FETCH FOR REGN8005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA3033",
@@ -10129,7 +10129,7 @@
   },
   {
     "courseCode": "INTR8084",
-    "req": "ERROR: CANNOT FETCH FOR INTR8084"
+    "req": "Not applicable"
   },
   {
     "courseCode": "STAT3057",
@@ -10165,7 +10165,7 @@
   },
   {
     "courseCode": "CLAS1005",
-    "req": "ERROR: CANNOT FETCH FOR CLAS1005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA6511",
@@ -10209,11 +10209,11 @@
   },
   {
     "courseCode": "SCOM1001",
-    "req": "ERROR: CANNOT FETCH FOR SCOM1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SCOM1002",
-    "req": "ERROR: CANNOT FETCH FOR SCOM1002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SCOM8004",
@@ -10237,7 +10237,7 @@
   },
   {
     "courseCode": "SCOM3003",
-    "req": "ERROR: CANNOT FETCH FOR SCOM3003"
+    "req": "To be determined"
   },
   {
     "courseCode": "SCOM6012",
@@ -10249,23 +10249,23 @@
   },
   {
     "courseCode": "SCNC8001",
-    "req": "ERROR: CANNOT FETCH FOR SCNC8001"
+    "req": "No specific inherent requirements have been identified for this course, but the workplace agreement may include requirements specific to the placement."
   },
   {
     "courseCode": "SCNC4000",
-    "req": "ERROR: CANNOT FETCH FOR SCNC4000"
+    "req": "You will need to contact the ANU College of Science to request a permission code to enrol in this course."
   },
   {
     "courseCode": "SCNC2000",
-    "req": "ERROR: CANNOT FETCH FOR SCNC2000"
+    "req": "Not yet determined"
   },
   {
     "courseCode": "SCNC8000",
-    "req": "ERROR: CANNOT FETCH FOR SCNC8000"
+    "req": "Not yet determined"
   },
   {
     "courseCode": "SCNC3000",
-    "req": "ERROR: CANNOT FETCH FOR SCNC3000"
+    "req": "Not yet determined"
   },
   {
     "courseCode": "SCOM6027",
@@ -10349,7 +10349,7 @@
   },
   {
     "courseCode": "BIOL8001",
-    "req": "ERROR: CANNOT FETCH FOR BIOL8001"
+    "req": "No specific inherent requirements have been identified for this course"
   },
   {
     "courseCode": "MATH3501",
@@ -10361,7 +10361,7 @@
   },
   {
     "courseCode": "SCRN2005",
-    "req": "ERROR: CANNOT FETCH FOR SCRN2005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SCRN3003",
@@ -10369,7 +10369,7 @@
   },
   {
     "courseCode": "SCRN3002",
-    "req": "ERROR: CANNOT FETCH FOR SCRN3002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING3101",
@@ -10409,7 +10409,7 @@
   },
   {
     "courseCode": "SOCY1002",
-    "req": "ERROR: CANNOT FETCH FOR SOCY1002"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LING6035",
@@ -10429,7 +10429,7 @@
   },
   {
     "courseCode": "ASIA5920",
-    "req": "ERROR: CANNOT FETCH FOR ASIA5920"
+    "req": "You will need to contact the ANU College of Asia and the Pacific to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENGN6334",
@@ -10493,11 +10493,11 @@
   },
   {
     "courseCode": "GEND1001",
-    "req": "ERROR: CANNOT FETCH FOR GEND1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DEMO8048",
-    "req": "ERROR: CANNOT FETCH FOR DEMO8048"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MGMT8105",
@@ -10513,15 +10513,15 @@
   },
   {
     "courseCode": "ARTH8026",
-    "req": "ERROR: CANNOT FETCH FOR ARTH8026"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTH4026",
-    "req": "ERROR: CANNOT FETCH FOR ARTH4026"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HIST8014",
-    "req": "ERROR: CANNOT FETCH FOR HIST8014"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTV8042",
@@ -10545,7 +10545,7 @@
   },
   {
     "courseCode": "MGMT2008",
-    "req": "ERROR: CANNOT FETCH FOR MGMT2008"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "SOCY2030",
@@ -10557,7 +10557,7 @@
   },
   {
     "courseCode": "POGO8025",
-    "req": "ERROR: CANNOT FETCH FOR POGO8025"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCY2101",
@@ -10565,11 +10565,11 @@
   },
   {
     "courseCode": "ASIA2099",
-    "req": "ERROR: CANNOT FETCH FOR ASIA2099"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA6099",
-    "req": "ERROR: CANNOT FETCH FOR ASIA6099"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PSYC2001",
@@ -10593,11 +10593,11 @@
   },
   {
     "courseCode": "POPH8108",
-    "req": "ERROR: CANNOT FETCH FOR POPH8108"
+    "req": "To be determined"
   },
   {
     "courseCode": "ASIA8050",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8050"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "DEMO2004",
@@ -10613,7 +10613,7 @@
   },
   {
     "courseCode": "SOCY1006",
-    "req": "ERROR: CANNOT FETCH FOR SOCY1006"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ENVS2013",
@@ -10729,7 +10729,7 @@
   },
   {
     "courseCode": "DEMO8063",
-    "req": "ERROR: CANNOT FETCH FOR DEMO8063"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARTV6820",
@@ -10749,19 +10749,19 @@
   },
   {
     "courseCode": "MGMT8172",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8172"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MMIB8003",
-    "req": "ERROR: CANNOT FETCH FOR MMIB8003"
+    "req": "Agreement from a supervisor to supervise the research project."
   },
   {
     "courseCode": "MMIB8004",
-    "req": "ERROR: CANNOT FETCH FOR MMIB8004"
+    "req": "Agreement from a supervisor to supervise the research project."
   },
   {
     "courseCode": "ENVS3016",
-    "req": "ERROR: CANNOT FETCH FOR ENVS3016"
+    "req": "To complete this course, students may be required to participate in field or laboratory activities. In order to participate, students must be able to:"
   },
   {
     "courseCode": "STST2004",
@@ -10785,35 +10785,35 @@
   },
   {
     "courseCode": "ECON3112",
-    "req": "ERROR: CANNOT FETCH FOR ECON3112"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON8112",
-    "req": "ERROR: CANNOT FETCH FOR ECON8112"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "FINM8002",
-    "req": "ERROR: CANNOT FETCH FOR FINM8002"
+    "req": "You will need to contact the Rsch Sch of Finance, Actuarial Studies & App Stats to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENGN6521",
-    "req": "ERROR: CANNOT FETCH FOR ENGN6521"
+    "req": "You will need to contact the School of Engineering to request a permission code to enrol in this course."
   },
   {
     "courseCode": "BUSN3060",
-    "req": "ERROR: CANNOT FETCH FOR BUSN3060"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "BUSN6060",
-    "req": "ERROR: CANNOT FETCH FOR BUSN6060"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS8041",
-    "req": "ERROR: CANNOT FETCH FOR POLS8041"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ACST3001",
-    "req": "ERROR: CANNOT FETCH FOR ACST3001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ACST8051",
@@ -10825,15 +10825,15 @@
   },
   {
     "courseCode": "ACST8052",
-    "req": "ERROR: CANNOT FETCH FOR ACST8052"
+    "req": "Not applicable"
   },
   {
     "courseCode": "STAT8024",
-    "req": "ERROR: CANNOT FETCH FOR STAT8024"
+    "req": "Not applicable."
   },
   {
     "courseCode": "STAT8025",
-    "req": "ERROR: CANNOT FETCH FOR STAT8025"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARAB3006",
@@ -10857,7 +10857,7 @@
   },
   {
     "courseCode": "BUSN4101",
-    "req": "ERROR: CANNOT FETCH FOR BUSN4101"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BUSN8101",
@@ -10865,7 +10865,7 @@
   },
   {
     "courseCode": "BUSN4010",
-    "req": "ERROR: CANNOT FETCH FOR BUSN4010"
+    "req": "Not applicable"
   },
   {
     "courseCode": "BUSN8010",
@@ -10881,7 +10881,7 @@
   },
   {
     "courseCode": "COMP6470",
-    "req": "ERROR: CANNOT FETCH FOR COMP6470"
+    "req": "Information on inherent requirements for this course are currently not available."
   },
   {
     "courseCode": "CRIM2011",
@@ -10889,7 +10889,7 @@
   },
   {
     "courseCode": "DIPL8012",
-    "req": "ERROR: CANNOT FETCH FOR DIPL8012"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMSC8014",
@@ -10897,15 +10897,15 @@
   },
   {
     "courseCode": "EMET3020",
-    "req": "ERROR: CANNOT FETCH FOR EMET3020"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON3099",
-    "req": "ERROR: CANNOT FETCH FOR ECON3099"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON8099",
-    "req": "ERROR: CANNOT FETCH FOR ECON8099"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON3020",
@@ -10913,39 +10913,39 @@
   },
   {
     "courseCode": "ENGN4521",
-    "req": "ERROR: CANNOT FETCH FOR ENGN4521"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENGN4522",
-    "req": "ERROR: CANNOT FETCH FOR ENGN4522"
+    "req": "You will need to contact the School of Engineering to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENGN4523",
-    "req": "ERROR: CANNOT FETCH FOR ENGN4523"
+    "req": "You will need to contact the School of Engineering to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENGN4520",
-    "req": "ERROR: CANNOT FETCH FOR ENGN4520"
+    "req": "You will need to contact the School of Engineering to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ENGN6520",
-    "req": "ERROR: CANNOT FETCH FOR ENGN6520"
+    "req": "You will need to contact the School of Engineering to request a permission code to enrol in this course."
   },
   {
     "courseCode": "EMDV8041",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8041"
+    "req": "Not applicable"
   },
   {
     "courseCode": "FINM3004",
-    "req": "ERROR: CANNOT FETCH FOR FINM3004"
+    "req": "Not applicable"
   },
   {
     "courseCode": "FINM4600",
-    "req": "ERROR: CANNOT FETCH FOR FINM4600"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HLMD1022",
-    "req": "ERROR: CANNOT FETCH FOR HLMD1022"
+    "req": "To be determined"
   },
   {
     "courseCode": "HLMD3022",
@@ -10957,11 +10957,11 @@
   },
   {
     "courseCode": "HLMD8022",
-    "req": "ERROR: CANNOT FETCH FOR HLMD8022"
+    "req": "To be determined"
   },
   {
     "courseCode": "INTR8018",
-    "req": "ERROR: CANNOT FETCH FOR INTR8018"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS8148",
@@ -10981,7 +10981,7 @@
   },
   {
     "courseCode": "MATH4349",
-    "req": "ERROR: CANNOT FETCH FOR MATH4349"
+    "req": "No specific inherent requirements have been identified for this course."
   },
   {
     "courseCode": "MATH3349",
@@ -10989,11 +10989,11 @@
   },
   {
     "courseCode": "ECON3110",
-    "req": "ERROR: CANNOT FETCH FOR ECON3110"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON8110",
-    "req": "ERROR: CANNOT FETCH FOR ECON8110"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "MEAS4001",
@@ -11021,11 +11021,11 @@
   },
   {
     "courseCode": "REGN8012",
-    "req": "ERROR: CANNOT FETCH FOR REGN8012"
+    "req": "Not applicable."
   },
   {
     "courseCode": "SCNC1022",
-    "req": "ERROR: CANNOT FETCH FOR SCNC1022"
+    "req": "To be determined"
   },
   {
     "courseCode": "SCNC2022",
@@ -11033,7 +11033,7 @@
   },
   {
     "courseCode": "SCNC8022",
-    "req": "ERROR: CANNOT FETCH FOR SCNC8022"
+    "req": "To be determined"
   },
   {
     "courseCode": "SCNC3022",
@@ -11053,7 +11053,7 @@
   },
   {
     "courseCode": "STAT3039",
-    "req": "ERROR: CANNOT FETCH FOR STAT3039"
+    "req": "Not applicable."
   },
   {
     "courseCode": "STAT8016",
@@ -11061,11 +11061,11 @@
   },
   {
     "courseCode": "STST8017",
-    "req": "ERROR: CANNOT FETCH FOR STST8017"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ANTH8063",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8063"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DESN2007",
@@ -11089,7 +11089,7 @@
   },
   {
     "courseCode": "POLS8043",
-    "req": "ERROR: CANNOT FETCH FOR POLS8043"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ANTH6134",
@@ -11097,7 +11097,7 @@
   },
   {
     "courseCode": "ANTH2134",
-    "req": "ERROR: CANNOT FETCH FOR ANTH2134"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "STAT3013",
@@ -11149,7 +11149,7 @@
   },
   {
     "courseCode": "STAT4500",
-    "req": "ERROR: CANNOT FETCH FOR STAT4500"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "SOCR8001",
@@ -11193,7 +11193,7 @@
   },
   {
     "courseCode": "MKTG7030",
-    "req": "ERROR: CANNOT FETCH FOR MKTG7030"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "LAWS8409",
@@ -11201,7 +11201,7 @@
   },
   {
     "courseCode": "MGMT8022",
-    "req": "ERROR: CANNOT FETCH FOR MGMT8022"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "MKTG3023",
@@ -11217,7 +11217,7 @@
   },
   {
     "courseCode": "STST8001",
-    "req": "ERROR: CANNOT FETCH FOR STST8001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "STST8010",
@@ -11245,7 +11245,7 @@
   },
   {
     "courseCode": "STST8066",
-    "req": "ERROR: CANNOT FETCH FOR STST8066"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMSC6030",
@@ -11285,19 +11285,19 @@
   },
   {
     "courseCode": "FINM3009",
-    "req": "ERROR: CANNOT FETCH FOR FINM3009"
+    "req": "Not applicable"
   },
   {
     "courseCode": "FINM6009",
-    "req": "ERROR: CANNOT FETCH FOR FINM6009"
+    "req": "Not applicable"
   },
   {
     "courseCode": "FINM3010",
-    "req": "ERROR: CANNOT FETCH FOR FINM3010"
+    "req": "Not applicable"
   },
   {
     "courseCode": "FINM6010",
-    "req": "ERROR: CANNOT FETCH FOR FINM6010"
+    "req": "Not applicable"
   },
   {
     "courseCode": "COMP2560",
@@ -11317,7 +11317,7 @@
   },
   {
     "courseCode": "EMDV8015",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8015"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA2084",
@@ -11325,7 +11325,7 @@
   },
   {
     "courseCode": "PASI6030",
-    "req": "ERROR: CANNOT FETCH FOR PASI6030"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI2030",
@@ -11333,7 +11333,7 @@
   },
   {
     "courseCode": "STST2020",
-    "req": "ERROR: CANNOT FETCH FOR STST2020"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8069",
@@ -11353,11 +11353,11 @@
   },
   {
     "courseCode": "ARCH8029",
-    "req": "ERROR: CANNOT FETCH FOR ARCH8029"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA8512",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8512"
+    "req": "Not applicable"
   },
   {
     "courseCode": "LAWS4300",
@@ -11369,7 +11369,7 @@
   },
   {
     "courseCode": "BIAN3129",
-    "req": "ERROR: CANNOT FETCH FOR BIAN3129"
+    "req": "You will need to contact the School of Archaeology and Anthropology to request a permission code to enrol in this course."
   },
   {
     "courseCode": "DESN2015",
@@ -11429,7 +11429,7 @@
   },
   {
     "courseCode": "MGMT7007",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7007"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "ENVS1008",
@@ -11441,7 +11441,7 @@
   },
   {
     "courseCode": "ENVS8019",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8019"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MKTG2002",
@@ -11517,7 +11517,7 @@
   },
   {
     "courseCode": "ASIA2222",
-    "req": "ERROR: CANNOT FETCH FOR ASIA2222"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CRIM2015",
@@ -11549,7 +11549,7 @@
   },
   {
     "courseCode": "MGMT7020",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7020"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "ENGL2116",
@@ -11593,11 +11593,11 @@
   },
   {
     "courseCode": "ARTV2911",
-    "req": "ERROR: CANNOT FETCH FOR ARTV2911"
+    "req": "This is a course amendment."
   },
   {
     "courseCode": "ENGL2020",
-    "req": "ERROR: CANNOT FETCH FOR ENGL2020"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "THAI1002",
@@ -11625,7 +11625,7 @@
   },
   {
     "courseCode": "HIST2206",
-    "req": "ERROR: CANNOT FETCH FOR HIST2206"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH6050",
@@ -11653,7 +11653,7 @@
   },
   {
     "courseCode": "ASIA8023",
-    "req": "ERROR: CANNOT FETCH FOR ASIA8023"
+    "req": "Postgraduate students only"
   },
   {
     "courseCode": "ARTV2717",
@@ -11665,11 +11665,11 @@
   },
   {
     "courseCode": "PASI8306",
-    "req": "ERROR: CANNOT FETCH FOR PASI8306"
+    "req": "Not applicable"
   },
   {
     "courseCode": "IDEC8021",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8021"
+    "req": "None."
   },
   {
     "courseCode": "HIST2141",
@@ -11685,15 +11685,15 @@
   },
   {
     "courseCode": "POGO8016",
-    "req": "ERROR: CANNOT FETCH FOR POGO8016"
+    "req": "Not applicable"
   },
   {
     "courseCode": "IDEC8081",
-    "req": "ERROR: CANNOT FETCH FOR IDEC8081"
+    "req": "None."
   },
   {
     "courseCode": "ECON4491",
-    "req": "ERROR: CANNOT FETCH FOR ECON4491"
+    "req": "You will need to contact the Research School of Economics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ECON8091",
@@ -11725,15 +11725,15 @@
   },
   {
     "courseCode": "NSPO8018",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8018"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "NSPO8048",
-    "req": "ERROR: CANNOT FETCH FOR NSPO8048"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POGO8213",
-    "req": "ERROR: CANNOT FETCH FOR POGO8213"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HIST2214",
@@ -11757,7 +11757,7 @@
   },
   {
     "courseCode": "BIAN1001",
-    "req": "ERROR: CANNOT FETCH FOR BIAN1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "CRIM2000",
@@ -11809,7 +11809,7 @@
   },
   {
     "courseCode": "ASIA2271",
-    "req": "ERROR: CANNOT FETCH FOR ASIA2271"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA6271",
@@ -11829,11 +11829,11 @@
   },
   {
     "courseCode": "CLAS2013",
-    "req": "ERROR: CANNOT FETCH FOR CLAS2013"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA1999",
-    "req": "ERROR: CANNOT FETCH FOR ASIA1999"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "BAPA1001",
@@ -11841,7 +11841,7 @@
   },
   {
     "courseCode": "DESN1004",
-    "req": "ERROR: CANNOT FETCH FOR DESN1004"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PHIL3078",
@@ -11869,11 +11869,11 @@
   },
   {
     "courseCode": "REGN8050",
-    "req": "ERROR: CANNOT FETCH FOR REGN8050"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI8307",
-    "req": "ERROR: CANNOT FETCH FOR PASI8307"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MEAS2105",
@@ -11881,11 +11881,11 @@
   },
   {
     "courseCode": "POGO8402",
-    "req": "ERROR: CANNOT FETCH FOR POGO8402"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI8005",
-    "req": "ERROR: CANNOT FETCH FOR PASI8005"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA6026",
@@ -11901,7 +11901,7 @@
   },
   {
     "courseCode": "POLS6100",
-    "req": "ERROR: CANNOT FETCH FOR POLS6100"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS3035",
@@ -11921,7 +11921,7 @@
   },
   {
     "courseCode": "STST8052",
-    "req": "ERROR: CANNOT FETCH FOR STST8052"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DIPL8016",
@@ -11969,19 +11969,19 @@
   },
   {
     "courseCode": "PSYC1005",
-    "req": "ERROR: CANNOT FETCH FOR PSYC1005"
+    "req": "No specific inherent requirements have been identified for this course"
   },
   {
     "courseCode": "ECHI6009",
-    "req": "ERROR: CANNOT FETCH FOR ECHI6009"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ARCH6130",
-    "req": "ERROR: CANNOT FETCH FOR ARCH6130"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ASIA2130",
-    "req": "ERROR: CANNOT FETCH FOR ASIA2130"
+    "req": "Not applicable"
   },
   {
     "courseCode": "FREN3515",
@@ -12013,7 +12013,7 @@
   },
   {
     "courseCode": "BIAN8005",
-    "req": "ERROR: CANNOT FETCH FOR BIAN8005"
+    "req": "You will need to contact the School of Archaeology and Anthropology to request a permission code to enrol in this course."
   },
   {
     "courseCode": "BIAN4010",
@@ -12025,7 +12025,7 @@
   },
   {
     "courseCode": "MMIB8008",
-    "req": "ERROR: CANNOT FETCH FOR MMIB8008"
+    "req": "The course is aimed at honing advanced theorising skills and is therefore suitable for advanced PhD candidates. The students will benefit the most if they have had some experience conducting and writing research at the PhD level. Their ability to relate to the advanced skill development exercises (critically evaluating content related to theories and theoretical contribution) will be superior if they are in their second year of full-time equivalent and have completed the other core courses in the RSM PhD program. The student should also have successfully completed the thesis proposal review stage."
   },
   {
     "courseCode": "COMP3630",
@@ -12057,7 +12057,7 @@
   },
   {
     "courseCode": "THES4103",
-    "req": "ERROR: CANNOT FETCH FOR THES4103"
+    "req": "Not applicable"
   },
   {
     "courseCode": "THES4501",
@@ -12065,7 +12065,7 @@
   },
   {
     "courseCode": "THES8100",
-    "req": "ERROR: CANNOT FETCH FOR THES8100"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8038",
@@ -12077,11 +12077,11 @@
   },
   {
     "courseCode": "THES8102",
-    "req": "ERROR: CANNOT FETCH FOR THES8102"
+    "req": "Not applicable"
   },
   {
     "courseCode": "THES8105",
-    "req": "ERROR: CANNOT FETCH FOR THES8105"
+    "req": "Not applicable"
   },
   {
     "courseCode": "DIPL8011",
@@ -12089,27 +12089,27 @@
   },
   {
     "courseCode": "ANTH8050",
-    "req": "ERROR: CANNOT FETCH FOR ANTH8050"
+    "req": "Not applicable"
   },
   {
     "courseCode": "THES4100",
-    "req": "ERROR: CANNOT FETCH FOR THES4100"
+    "req": "Not applicable"
   },
   {
     "courseCode": "THES4102",
-    "req": "ERROR: CANNOT FETCH FOR THES4102"
+    "req": "Students must have the support of the relevant Honours Convenor, as well as the agreement of a supervisor and an agreed topic."
   },
   {
     "courseCode": "THES4105",
-    "req": "ERROR: CANNOT FETCH FOR THES4105"
+    "req": "Not applicable"
   },
   {
     "courseCode": "THES4502",
-    "req": "ERROR: CANNOT FETCH FOR THES4502"
+    "req": "Not applicable"
   },
   {
     "courseCode": "THES8103",
-    "req": "ERROR: CANNOT FETCH FOR THES8103"
+    "req": "Not applicable"
   },
   {
     "courseCode": "REGN8008",
@@ -12121,7 +12121,7 @@
   },
   {
     "courseCode": "THES8113",
-    "req": "ERROR: CANNOT FETCH FOR THES8113"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR8039",
@@ -12149,11 +12149,11 @@
   },
   {
     "courseCode": "HUMN9104",
-    "req": "ERROR: CANNOT FETCH FOR HUMN9104"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MATH4005",
-    "req": "ERROR: CANNOT FETCH FOR MATH4005"
+    "req": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course."
   },
   {
     "courseCode": "SCOM4005",
@@ -12169,7 +12169,7 @@
   },
   {
     "courseCode": "MGMT7060",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7060"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "TIBN1002",
@@ -12205,7 +12205,7 @@
   },
   {
     "courseCode": "MGMT7170",
-    "req": "ERROR: CANNOT FETCH FOR MGMT7170"
+    "req": "This course has no inherent requirements."
   },
   {
     "courseCode": "LANG4002",
@@ -12225,7 +12225,7 @@
   },
   {
     "courseCode": "PHIL2014",
-    "req": "ERROR: CANNOT FETCH FOR PHIL2014"
+    "req": "To enroll in this course, you must have completed 12 units of Philosophy (PHIL) courses, or by permission of the course convener."
   },
   {
     "courseCode": "CLAS4008",
@@ -12245,11 +12245,11 @@
   },
   {
     "courseCode": "COMP3710",
-    "req": "ERROR: CANNOT FETCH FOR COMP3710"
+    "req": "Not applicable"
   },
   {
     "courseCode": "ENVS8048",
-    "req": "ERROR: CANNOT FETCH FOR ENVS8048"
+    "req": "To complete this course, students may be required to participate in field or laboratory activities. In order to participate, students must be able to:"
   },
   {
     "courseCode": "FINM8007",
@@ -12293,7 +12293,7 @@
   },
   {
     "courseCode": "EMDV8017",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8017"
+    "req": "Not applicable."
   },
   {
     "courseCode": "FINM4017",
@@ -12313,7 +12313,7 @@
   },
   {
     "courseCode": "EMDV8101",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8101"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCY3124",
@@ -12321,7 +12321,7 @@
   },
   {
     "courseCode": "LANG8016",
-    "req": "ERROR: CANNOT FETCH FOR LANG8016"
+    "req": "You will need to contact the School of Literature, Languages and Linguistics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "LANG6002",
@@ -12353,7 +12353,7 @@
   },
   {
     "courseCode": "SCRN3001",
-    "req": "ERROR: CANNOT FETCH FOR SCRN3001"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ASIA3272",
@@ -12393,7 +12393,7 @@
   },
   {
     "courseCode": "HUMN8019",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8019"
+    "req": "Not applicable"
   },
   {
     "courseCode": "INTR2016",
@@ -12401,15 +12401,15 @@
   },
   {
     "courseCode": "INTR8067",
-    "req": "ERROR: CANNOT FETCH FOR INTR8067"
+    "req": "Not applicable."
   },
   {
     "courseCode": "INTR8085",
-    "req": "ERROR: CANNOT FETCH FOR INTR8085"
+    "req": "Not applicable"
   },
   {
     "courseCode": "MUSC8012",
-    "req": "ERROR: CANNOT FETCH FOR MUSC8012"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCY3007",
@@ -12429,11 +12429,11 @@
   },
   {
     "courseCode": "PASI8303",
-    "req": "ERROR: CANNOT FETCH FOR PASI8303"
+    "req": "Not applicable"
   },
   {
     "courseCode": "PASI8304",
-    "req": "ERROR: CANNOT FETCH FOR PASI8304"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EURO2012",
@@ -12441,7 +12441,7 @@
   },
   {
     "courseCode": "POGO8234",
-    "req": "ERROR: CANNOT FETCH FOR POGO8234"
+    "req": "Not applicable"
   },
   {
     "courseCode": "VCPG6001",
@@ -12457,11 +12457,11 @@
   },
   {
     "courseCode": "ENGN8832",
-    "req": "ERROR: CANNOT FETCH FOR ENGN8832"
+    "req": "Not applicable"
   },
   {
     "courseCode": "SOCR8202",
-    "req": "ERROR: CANNOT FETCH FOR SOCR8202"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ENGL3036",
@@ -12549,15 +12549,15 @@
   },
   {
     "courseCode": "WARS1001",
-    "req": "ERROR: CANNOT FETCH FOR WARS1001"
+    "req": "Not applicable"
   },
   {
     "courseCode": "POLS3022",
-    "req": "ERROR: CANNOT FETCH FOR POLS3022"
+    "req": "Not applicable"
   },
   {
     "courseCode": "EMDV8079",
-    "req": "ERROR: CANNOT FETCH FOR EMDV8079"
+    "req": "n/a"
   },
   {
     "courseCode": "ENVS3005",
@@ -12613,7 +12613,7 @@
   },
   {
     "courseCode": "INTR8077",
-    "req": "ERROR: CANNOT FETCH FOR INTR8077"
+    "req": "N/A"
   },
   {
     "courseCode": "POGO8068",
@@ -12669,19 +12669,19 @@
   },
   {
     "courseCode": "HUMN8026",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8026"
+    "req": "Cannot find requisites. Please visit programs & courses."
   },
   {
     "courseCode": "ENGL9020",
-    "req": "ERROR: CANNOT FETCH FOR ENGL9020"
+    "req": "Not applicable"
   },
   {
     "courseCode": "HUMN8012",
-    "req": "ERROR: CANNOT FETCH FOR HUMN8012"
+    "req": "You will need to contact the School of Literature, Languages and Linguistics to request a permission code to enrol in this course."
   },
   {
     "courseCode": "ASIA3551",
-    "req": "ERROR: CANNOT FETCH FOR ASIA3551"
+    "req": "You will need to contact the School of Culture History and Language to request a permission code to enrol in this course."
   },
   {
     "courseCode": "CRIM2006",

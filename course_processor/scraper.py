@@ -50,16 +50,30 @@ def log(i, searchSpace):
     if i == searchSpace // (10/9):
         print('90% Done')
 
+def getURL(courseCode):
+    return f"https://programsandcourses.anu.edu.au/2024/course/{courseCode}"
 
 def fetchRequisite(courseCode):
     print("Fetching requisites: " + courseCode)
-    response = requests.get(f"https://programsandcourses.anu.edu.au/2024/course/{courseCode}")
+    response = requests.get(getURL(courseCode))
     soup = BeautifulSoup(response.text, "html.parser")
     req = soup.find("div", {"class": "requisite"})
-    if req is None:
-        req = soup.find("h2", {"id": "inherent-requirements"}).find_next("p")
-        if req is None:
-            err = "ERROR: CANNOT FETCH FOR " + courseCode
-            print(err)
-            return err
-    return req.get_text(strip=True, separator="\n")
+    if req is not None:
+        return req.get_text(strip=True, separator="\n")
+
+    reqTitle = soup.find("h2", {"id": "inherent-requirements"})
+    if reqTitle is not None:
+        req = reqTitle.find_next("p")
+        if req is not None:
+            return req.get_text(strip=True, separator="\n")
+
+    reqTitle = soup.find("h2", {"id": "incompatibility"})
+    if reqTitle is not None:
+        req = reqTitle.find_next("p")
+        if req is not None:
+            return req.get_text(strip=True, separator="\n")
+
+    print("ERROR: CANNOT FETCH FOR " + courseCode)
+    return "Cannot find requisites. Please visit programs & courses."
+
+
