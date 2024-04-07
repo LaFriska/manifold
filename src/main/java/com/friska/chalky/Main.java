@@ -18,7 +18,7 @@ public class Main {
     private static String fetchToken(){
         try {
             Properties prop = new Properties();
-            prop.load(new FileInputStream("src/main/config.properties"));
+            prop.load(new FileInputStream("config.properties"));
             return prop.getProperty("token");
         }catch (IOException ignored){
             throw new RuntimeException("CANNOT ACCESS TOKEN");
