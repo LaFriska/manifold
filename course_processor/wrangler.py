@@ -50,18 +50,17 @@ def reformat():
     reqs = json.load(open('requisites.json'))
     courses = json.load(open('courses.json'))
     for i in range(len(reqs)):
-        reqs[i]["req"] = reformat_reqs(reqs[i]["req"], courses)
+        reqs[i]["req"] = reformat_reqs(reqs[i]["req"])
     print('Writing to file')
     f = open('requisites.json', 'w')
     f.write(json.dumps(reqs, indent=4))
     print('Linebreaks removed')
 
 
-
-def reformat_reqs(requisite, courses):
+def reformat_reqs(requisite):
     words = re.split(r'\n', requisite)
     for i in range(len(words)):
-        if has_course(words[i], courses):
+        if is_course_code(words[i]):
             requisite = requisite.replace(f"\n{words[i]}\n", f" {words[i]} ")
     requisite = requisite.replace(" .", ".")
     requisite = requisite.replace(" ,", ",")
@@ -85,7 +84,7 @@ def hyperlink_requisites():
 
 # Hyperlinks one requisite string
 def hyperlink_requisite(requisite, courses):
-    words = re.split(r'\s+', requisite)
+    words = re.split(r'[\s.,;:]+', requisite)
     linked_words = []
     for i in range(len(words)):
         if has_course(words[i], courses) and words[i] not in linked_words:
@@ -120,8 +119,31 @@ def get_hyperlinked_course(courseCode):
     return f"[{courseCode}](https://programsandcourses.anu.edu.au/2024/course/{courseCode})"
 
 
-def replace(s, keyword, replacement):
-    return re.sub(r'\b%s\b' % re.escape(keyword), replacement, s)
+# def replace(s, keyword, replacement):
+#     return re.sub(r'\b%s\b' % re.escape(keyword), replacement, s)
+
+
+# Returns true if the input parameter has the structure to a course code. Returns false if otherwise. Note that this
+# function does not necessarily gurantee that a course exists. For example, LMAO1234 will return true, but ANU does not offer
+# a course with code LMAO1234.
+def is_course_code(s):
+    if len(s) > 9:
+        return False
+    if len(s) < 8:
+        return False
+    if not all(char.isupper() for char in s[0:4]):
+        return False
+    if not all(char.isdigit() for char in s[4:8]):
+        return False
+    return True
+
+
+# Unwrangles courses and requisites by copying from the backup.
+def unwrangle():
+    f = open('courses.json', 'w')
+    f.write(json.dumps(json.load(open('backup/courses.json')), indent=4))
+    f = open('requisites.json', 'w')
+    f.write(json.dumps(json.load(open('backup/requisites.json')), indent=4))
 
 
 start(False)
