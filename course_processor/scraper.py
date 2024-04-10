@@ -6,6 +6,11 @@ from bs4 import BeautifulSoup
 
 
 def start():
+    course_data = fetch_all_courses()
+    fetch_all_requisites(course_data['Items'])
+
+
+def fetch_all_courses():
     url = "https://programsandcourses.anu.edu.au/data/CourseSearch/GetCourses?ShowAll=true"
     print("Fetching data from " + url)
     course_data = json.loads(requests.get(url).text)
@@ -14,23 +19,23 @@ def start():
     f.write(json.dumps(course_data, indent=4))
     print("Course data updated")
     print("Fetching course requisites.json, this may take 1 - 2 hours.")
-    fetchAllRequisites(course_data['Items'])
+    return course_data
 
 
-def fetchAllRequisites(data):
+def fetch_all_requisites(data):
     requisites = []
     searchSpace = len(data)
     for i in range(searchSpace):
         courseCode = data[i]["CourseCode"]
-        log(i, searchSpace)
-        requisites.append({"courseCode": courseCode, "req": fetchRequisite(courseCode)})
+        log_req_progress(i, searchSpace)
+        requisites.append({"courseCode": courseCode, "req": fetch_requisite(courseCode)})
     print('All requisites.json fetched')
     print('Writing to file')
     f = open("requisites.json", "w")
     f.write(json.dumps(requisites))
 
 
-def log(i, searchSpace):
+def log_req_progress(i, searchSpace):
     print(str(round((i/searchSpace)*100, 2)) + "% fetched")
 
 
@@ -38,7 +43,7 @@ def getURL(courseCode):
     return f"https://programsandcourses.anu.edu.au/2024/course/{courseCode}"
 
 
-def fetchRequisite(courseCode):
+def fetch_requisite(courseCode):
     response = requests.get(getURL(courseCode))
     soup = BeautifulSoup(response.text, "html.parser")
     req = soup.find("div", {"class": "requisite"})
@@ -59,5 +64,6 @@ def fetchRequisite(courseCode):
 
     print("ERROR: CANNOT FETCH FOR " + courseCode)
     return "Cannot find requisites. Please visit programs & courses."
+
 
 start()
