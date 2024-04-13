@@ -143,6 +143,17 @@ def wrangle_programs():
     programs = json.load(open("programs.json"))
     if "Items" in programs:
         programs = programs["Items"]
+    for i in range(len(programs)):
+        programs[i] = {
+            "program_code": programs[i]["AcademicPlanCode"],
+            "name": programs[i]["ProgramName"],
+            "atar": programs[i]["Atar"],
+            "career": programs[i]["AcademicCareer"],
+            "duration": programs[i]["Duration"],
+            "mod": programs[i]["ModeOfDelivery"]
+        }
+    f = open("programs.json", "w")
+    f.write(json.dumps(programs, indent=4))
 
 # Unwrangles courses and requisites by copying from the backup.
 def unwrangle():
@@ -151,5 +162,4 @@ def unwrangle():
     f = open('requisites.json', 'w')
     f.write(json.dumps(json.load(open('backup/requisites.json')), indent=4))
 
-unwrangle()
-start()
+wrangle_programs()
