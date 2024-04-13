@@ -7,7 +7,18 @@ from bs4 import BeautifulSoup
 
 def start():
     course_data = fetch_all_courses()
+    fetch_all_programs()
     fetch_all_requisites(course_data['Items'])
+
+
+def fetch_all_programs():
+    url = "https://programsandcourses.anu.edu.au/data/ProgramSearch/GetPrograms?ShowAll=true"
+    print("Fetching data from " + url)
+    program_data = json.loads(requests.get(url).text)
+    print("Writing to file")
+    f = open("programs.json", "w")
+    f.write(json.dumps(program_data, indent=4))
+    print("Program data updated")
 
 
 def fetch_all_courses():
@@ -18,11 +29,11 @@ def fetch_all_courses():
     f = open("courses.json", "w")
     f.write(json.dumps(course_data, indent=4))
     print("Course data updated")
-    print("Fetching course requisites.json, this may take 1 - 2 hours.")
     return course_data
 
 
 def fetch_all_requisites(data):
+    print("Fetching course requisites.json, this may take 1 - 2 hours.")
     requisites = []
     searchSpace = len(data)
     for i in range(searchSpace):
@@ -32,7 +43,7 @@ def fetch_all_requisites(data):
     print('All requisites.json fetched')
     print('Writing to file')
     f = open("requisites.json", "w")
-    f.write(json.dumps(requisites))
+    f.write(json.dumps(requisites, indent=4))
 
 
 def log_req_progress(i, searchSpace):
@@ -66,4 +77,4 @@ def fetch_requisite(courseCode):
     return "Cannot find requisites. Please visit programs & courses."
 
 
-start()
+fetch_all_programs()

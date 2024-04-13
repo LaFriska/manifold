@@ -2,21 +2,22 @@ import json
 import re
 
 
-def start(unnest):
-    sort(unnest)
+def start():
+    sort()
     reformat()
     hyperlink_requisites()
+    wrangle_programs()
 
 
 # Bubble sort algorithm to sort the courses json, and disgard unnecessary nesting of objects. Input false into this method
 # if the courses.json does not have courses nested in Items.
-def sort(unnest):
+def sort():
     print('Sorting courses and course requisites')
     f = open('courses.json')
     courses = json.load(f)
     f_req = open('requisites.json')
     reqs = json.load(f_req)
-    if unnest:
+    if "Items" in courses:
         courses = courses["Items"]
 
     if len(courses) != len(reqs):
@@ -138,6 +139,11 @@ def is_course_code(s):
     return True
 
 
+def wrangle_programs():
+    programs = json.load(open("programs.json"))
+
+
+
 # Unwrangles courses and requisites by copying from the backup.
 def unwrangle():
     f = open('courses.json', 'w')
@@ -145,5 +151,5 @@ def unwrangle():
     f = open('requisites.json', 'w')
     f.write(json.dumps(json.load(open('backup/requisites.json')), indent=4))
 
-
-start(False)
+unwrangle()
+start()
