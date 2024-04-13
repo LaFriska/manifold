@@ -141,8 +141,8 @@ def is_course_code(s):
 
 def wrangle_programs():
     programs = json.load(open("programs.json"))
-
-
+    if "Items" in programs:
+        programs = programs["Items"]
 
 # Unwrangles courses and requisites by copying from the backup.
 def unwrangle():

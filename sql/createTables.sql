@@ -4,6 +4,7 @@
 DROP TABLE plans CASCADE;
 DROP TABLE courses CASCADE;
 DROP TABLE entries CASCADE;
+DROP TABLE programs CASCADE;
 
 --Degree is nullable, and title will be defaulted to as "untitled" if left as null.
 CREATE TABLE plans (
@@ -34,4 +35,13 @@ CREATE TABLE entries (
     slot SMALLINT,
     FOREIGN KEY(pid) REFERENCES plans(pid),
     FOREIGN KEY(course_code) REFERENCES courses(course_code)
-)
+);
+
+CREATE TABLE programs(
+    program_code VARCHAR(20) PRIMARY KEY,
+    name VARCHAR(200) NOT NULL,
+    atar SMALLINT CHECK(atar >= 0 AND atar <= 100),
+    career VARCHAR(20),
+    duration SMALLINT CHECK(duration > 0 AND duration < 10),
+    mod VARCHAR(100)
+);
