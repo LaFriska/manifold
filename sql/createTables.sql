@@ -27,6 +27,15 @@ CREATE TABLE courses (
     mod VARCHAR(100)
 );
 
+CREATE TABLE programs(
+    program_code VARCHAR(20) PRIMARY KEY,
+    name VARCHAR(200) NOT NULL,
+    atar SMALLINT CHECK(atar >= 0 AND atar <= 100),
+    career VARCHAR(20),
+    duration SMALLINT CHECK(duration > 0 AND duration < 10),
+    mod VARCHAR(100)
+);
+
 CREATE TABLE entries (
     pid INT,
     year SMALLINT,
@@ -35,13 +44,4 @@ CREATE TABLE entries (
     slot SMALLINT,
     FOREIGN KEY(pid) REFERENCES plans(pid),
     FOREIGN KEY(course_code) REFERENCES courses(course_code)
-);
-
-CREATE TABLE programs(
-    program_code VARCHAR(20) PRIMARY KEY,
-    name VARCHAR(200) NOT NULL,
-    atar SMALLINT CHECK(atar >= 0 AND atar <= 100),
-    career VARCHAR(20),
-    duration SMALLINT CHECK(duration > 0 AND duration < 10),
-    mod VARCHAR(100)
 );
