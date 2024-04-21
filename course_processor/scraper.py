@@ -16,7 +16,7 @@ def fetch_all_programs():
     print("Fetching data from " + url)
     program_data = json.loads(requests.get(url).text)
     print("Writing to file")
-    f = open("programs.json", "w")
+    f = open("backup/programs.json", "w")
     f.write(json.dumps(program_data, indent=4))
     print("Program data updated")
 
@@ -77,4 +77,4 @@ def fetch_requisite(courseCode):
     return "Cannot find requisites. Please visit programs & courses."
 
 
-fetch_all_programs()
+start()

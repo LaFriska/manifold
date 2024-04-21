@@ -17,7 +17,7 @@
     },
     {
         "program_code": "CTEGO",
-        "name": "<p>Graduate Certificate of Technology Governance</p>",
+        "name": "Graduate Certificate of Technology Governance",
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
@@ -120,7 +120,7 @@
         "mod": "In Person"
     },
     {
-        "program_code": "HART2",
+        "program_code": "HARTS",
         "name": "Bachelor of Arts (Honours)",
         "atar": null,
         "career": "Undergraduate",
@@ -128,7 +128,7 @@
         "mod": "In Person"
     },
     {
-        "program_code": "HARTS",
+        "program_code": "HART2",
         "name": "Bachelor of Arts (Honours)",
         "atar": null,
         "career": "Undergraduate",
@@ -1144,20 +1144,20 @@
         "mod": "In Person"
     },
     {
-        "program_code": "CCRRO",
-        "name": "Graduate Certificate of Crime, Risk and Resilience",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 0.5,
-        "mod": "Online"
-    },
-    {
         "program_code": "CCRR",
         "name": "Graduate Certificate of Crime, Risk and Resilience",
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
         "mod": "In Person"
+    },
+    {
+        "program_code": "CCRRO",
+        "name": "Graduate Certificate of Crime, Risk and Resilience",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "Online"
     },
     {
         "program_code": "CCCA",
@@ -1288,20 +1288,20 @@
         "mod": "In Person"
     },
     {
-        "program_code": "CIDEC",
-        "name": "Graduate Certificate of International and Development Economics",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 0.5,
-        "mod": "In Person"
-    },
-    {
         "program_code": "CIDECO",
         "name": "Graduate Certificate of International and Development Economics",
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
         "mod": "Online"
+    },
+    {
+        "program_code": "CIDEC",
+        "name": "Graduate Certificate of International and Development Economics",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "In Person"
     },
     {
         "program_code": "CLAW",
@@ -1416,20 +1416,20 @@
         "mod": "Multi-Modal"
     },
     {
-        "program_code": "CREGO",
-        "name": "Graduate Certificate of Regulation and Governance",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 0.5,
-        "mod": "In Person"
-    },
-    {
         "program_code": "CREGOL",
         "name": "Graduate Certificate of Regulation and Governance",
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
         "mod": "Online"
+    },
+    {
+        "program_code": "CREGO",
+        "name": "Graduate Certificate of Regulation and Governance",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "In Person"
     },
     {
         "program_code": "CSCIE",
@@ -1576,7 +1576,7 @@
         "mod": "In Person"
     },
     {
-        "program_code": "5031XNAWD",
+        "program_code": "5034XNAWD",
         "name": "Graduate Exchange Program",
         "atar": null,
         "career": "Non-Award",
@@ -1584,7 +1584,7 @@
         "mod": "In Person"
     },
     {
-        "program_code": "5034XNAWD",
+        "program_code": "5031XNAWD",
         "name": "Graduate Exchange Program",
         "atar": null,
         "career": "Non-Award",
@@ -1610,14 +1610,6 @@
     {
         "program_code": "5160XNAWD",
         "name": "Graduate Non-Award (ANU Colleges of Science)",
-        "atar": null,
-        "career": "Non-Award",
-        "duration": null,
-        "mod": "In Person"
-    },
-    {
-        "program_code": "5132XNAWD",
-        "name": "Graduate Non-Award (ANU School of Legal Practice)",
         "atar": null,
         "career": "Non-Award",
         "duration": null,
@@ -1920,6 +1912,14 @@
         "mod": "In Person"
     },
     {
+        "program_code": "MBUSA",
+        "name": "Master of Business Administration",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 1.0,
+        "mod": "In Person"
+    },
+    {
         "program_code": "MBINS",
         "name": "Master of Business Information Systems",
         "atar": null,
@@ -2016,20 +2016,20 @@
         "mod": "In Person"
     },
     {
-        "program_code": "MDIP",
-        "name": "Master of Diplomacy",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 1.0,
-        "mod": "In Person"
-    },
-    {
         "program_code": "MDIPOL",
         "name": "Master of Diplomacy",
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.0,
         "mod": "Online"
+    },
+    {
+        "program_code": "MDIP",
+        "name": "Master of Diplomacy",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 1.0,
+        "mod": "In Person"
     },
     {
         "program_code": "VEASC",
@@ -2160,20 +2160,20 @@
         "mod": "Online"
     },
     {
-        "program_code": "MEREC",
-        "name": "Master of Environmental and Resource Economics",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 2.0,
-        "mod": "In Person"
-    },
-    {
         "program_code": "MERECO",
         "name": "Master of Environmental and Resource Economics",
         "atar": null,
         "career": "Postgraduate",
         "duration": 2.0,
         "mod": "Online"
+    },
+    {
+        "program_code": "MEREC",
+        "name": "Master of Environmental and Resource Economics",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 2.0,
+        "mod": "In Person"
     },
     {
         "program_code": "7418XMFIN",
@@ -2304,20 +2304,20 @@
         "mod": "In Person"
     },
     {
-        "program_code": "MIDECO",
-        "name": "Master of International and Development Economics",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 2.0,
-        "mod": "Online"
-    },
-    {
         "program_code": "MIDEC",
         "name": "Master of International and Development Economics",
         "atar": null,
         "career": "Postgraduate",
         "duration": 2.0,
         "mod": "In Person"
+    },
+    {
+        "program_code": "MIDECO",
+        "name": "Master of International and Development Economics",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 2.0,
+        "mod": "Online"
     },
     {
         "program_code": "MLLM",

@@ -153,7 +153,8 @@ def wrangle_programs():
             "mod": programs[i]["ModeOfDelivery"]
         }
     f = open("programs.json", "w")
-    f.write(json.dumps(programs, indent=4))
+    f.write(json.dumps(programs, indent=4).replace("<p>", "").replace("</p>", ""))
+
 
 # Unwrangles courses and requisites by copying from the backup.
 def unwrangle():
@@ -161,5 +162,9 @@ def unwrangle():
     f.write(json.dumps(json.load(open('backup/courses.json')), indent=4))
     f = open('requisites.json', 'w')
     f.write(json.dumps(json.load(open('backup/requisites.json')), indent=4))
+    f = open('programs.json', 'w')
+    f.write(json.dumps(json.load(open('backup/programs.json')), indent=4))
 
-wrangle_programs()
+
+unwrangle()
+start()
