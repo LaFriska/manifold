@@ -9,7 +9,7 @@ import java.util.Properties;
 
 public class Main {
     public static void main(String[] args) {
-        JDABuilder builder = JDABuilder.createDefault(fetchToken());
+        JDABuilder builder = JDABuilder.createDefault(fetchProperty("token"));
         builder.enableIntents(GatewayIntent.MESSAGE_CONTENT);
         builder.addEventListeners(
 
@@ -17,13 +17,13 @@ public class Main {
         builder.build();
     }
 
-    private static String fetchToken(){
+    public static String fetchProperty(String key){
         try {
             Properties prop = new Properties();
             prop.load(new FileInputStream("config.properties"));
-            return prop.getProperty("token");
+            return prop.getProperty(key);
         }catch (IOException ignored){
-            throw new RuntimeException("CANNOT ACCESS TOKEN");
+            throw new RuntimeException("Cannot fetch property.");
         }
     }
 }
