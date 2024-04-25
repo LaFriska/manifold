@@ -7,6 +7,7 @@ def start():
     reformat()
     hyperlink_requisites()
     wrangle_programs()
+    sanitize()
 
 
 # Bubble sort algorithm to sort the courses json, and disgard unnecessary nesting of objects. Input false into this method
@@ -164,6 +165,30 @@ def unwrangle():
     f.write(json.dumps(json.load(open('backup/requisites.json')), indent=4))
     f = open('programs.json', 'w')
     f.write(json.dumps(json.load(open('backup/programs.json')), indent=4))
+
+
+def sanitize():
+    print("Sanitizing courses")
+    sanitize_file("courses.json", 'Name')
+    print("Sanitizing requisites")
+    sanitize_file("requisites.json", 'req')
+    print("Sanitizing programs")
+    sanitize_file("programs.json", 'name')
+
+def sanitize_file(file, attribute):
+    data = json.load(open(file))
+    for i in range(len(data)):
+        data[i][attribute] = sanitize_quotations(data[i][attribute])
+    open(file, 'w').write(json.dumps(data, indent=4))
+
+
+def sanitize_quotations(input_string):
+    output_string = ''
+    for i in range(len(input_string)):
+        if input_string[i] == "'" and (i == 0 or input_string[i - 1] != "'"):
+            output_string += "'"
+        output_string += input_string[i]
+    return output_string
 
 
 unwrangle()

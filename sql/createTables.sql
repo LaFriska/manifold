@@ -24,7 +24,8 @@ CREATE TABLE courses (
     session SMALLINT CHECK(session <= 3),
     career VARCHAR(20),
     units SMALLINT,
-    mod VARCHAR(100)
+    mod VARCHAR(100),
+    requisite VARCHAR(2000)
 );
 
 CREATE TABLE programs(
