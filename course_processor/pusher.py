@@ -53,6 +53,12 @@ def get_course_query(c, r):
             f"VALUES ('{c["CourseCode"]}', '{c["Name"]}', {get_session_number(c["Session"])}, '{c["Career"]}', {c["Units"]}, '{c["ModeOfDelivery"]}', '{r["req"]}')")
 
 
+def get_program_query(p):
+    fStr = lambda str: 'NULL' if str is None else f"'{str}'"
+    fInt = lambda int: 'NULL' if int is None else f"{int}"
+    return (f"INSERT INTO programs(program_code, name, atar, career, duration, mod) "
+            f"VALUES ({fStr(p["program_code"])}, {fStr(p["name"])}, {fInt(p["atar"])}, {fStr(p["career"])}, {fInt(p["duration"])}, {fStr(p["mod"])})")
+
 def start():
     print('Connecting to postgreSQL database...')
     conn = psycopg2.connect(
@@ -66,19 +72,25 @@ def start():
 
     courses = json.load(open("courses.json"))
     requisites = json.load(open("requisites.json"))
+    programs = json.load(open("programs.json"))
 
     try:
-        cursor.execute('SELECT version()')
+        print('Deleting existing courses')
+        cursor.execute('DELETE FROM courses')
+        cursor.execute('DELETE FROM programs')
         print("Updating courses")
         for i in range(len(courses)):
-            query = get_course_query(courses[i], requisites[i])
-            cursor.execute(query)
+            cursor.execute(get_course_query(courses[i], requisites[i]))
+        print("Updating programs")
+        for i in range(len(programs)):
+            cursor.execute(get_program_query(programs[i]))
         print("Updated courses")
         conn.commit()
     except Exception as e:
         print("Error: unable to fetch data")
         print(e)
     finally:
+        print("Done.")
         if cursor is not None:
             cursor.close()
         if conn is not None:
