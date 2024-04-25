@@ -1,4 +1,4 @@
-package com.friska.chalky;
+package com.friska.manifold;
 
 
 import net.dv8tion.jda.api.EmbedBuilder;
