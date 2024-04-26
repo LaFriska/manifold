@@ -1,6 +1,8 @@
 --THIS SCRIPT RE-INITIALIZES DATABASE FOR CHALKY, AND ALL EXISTING DATABASES WITH OVERLAPPING TABLE NAMES
 --WILL BE DROPPED. RUN THIS SCRIPT ONLY WITH CAUTION.
 
+--Note that if tables plans, courses, entries and programs do not exist, there are 4 expected failed error messages.
+
 DROP TABLE plans CASCADE;
 DROP TABLE courses CASCADE;
 DROP TABLE entries CASCADE;
