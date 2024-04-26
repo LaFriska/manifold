@@ -50,14 +50,14 @@ def get_course_query(c, r):
         r = linear_search(open('requisites.json'), c["CourseCode"])
 
     return (f"INSERT INTO courses(course_code, name, session, career, units, mod, requisite) "
-            f"VALUES ('{c["CourseCode"]}', '{c["Name"]}', {get_session_number(c["Session"])}, '{c["Career"]}', {c["Units"]}, '{c["ModeOfDelivery"]}', '{r["req"]}')")
+            f"VALUES ('{c['CourseCode']}', '{c['Name']}', {get_session_number(c['Session'])}, '{c['Career']}', {c['Units']}, '{c['ModeOfDelivery']}', '{r['req']}')")
 
 
 def get_program_query(p):
     fStr = lambda str: 'NULL' if str is None else f"'{str}'"
     fInt = lambda int: 'NULL' if int is None else f"{int}"
     return (f"INSERT INTO programs(program_code, name, atar, career, duration, mod) "
-            f"VALUES ({fStr(p["program_code"])}, {fStr(p["name"])}, {fInt(p["atar"])}, {fStr(p["career"])}, {fInt(p["duration"])}, {fStr(p["mod"])})")
+            f"VALUES ({fStr(p['program_code'])}, {fStr(p['name'])}, {fInt(p['atar'])}, {fStr(p['career'])}, {fInt(p['duration'])}, {fStr(p['mod'])})")
 
 def start():
     print('Connecting to postgreSQL database...')
