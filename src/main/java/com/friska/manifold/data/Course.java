@@ -35,7 +35,7 @@ public class Course {
 
     public static enum Session {
         FIRST_SEMESTER("First Semester"),
-        SECOND_SEMESTER("Second Semester"),
+        SECOND_SEMESTER("Second Semester"), //TODO fix enum strings
         OTHER("Other Semesters");
 
         public String val;
