@@ -5,7 +5,7 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.Arrays;
 
-import static com.friska.manifold.Vars.*;
+import static com.friska.manifold.Props.*;
 
 public class Command{
 
