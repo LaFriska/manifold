@@ -34,14 +34,21 @@ public class Course {
 
 
     public static enum Session {
-        FIRST_SEMESTER,
-        SECOND_SEMESTER,
-        OTHER
+        FIRST_SEMESTER("First Semester"),
+        SECOND_SEMESTER("Second Semester"),
+        OTHER("Other Semesters");
+
+        public String val;
+
+        Session(String val){
+            this.val = val;
+        }
     }
 
     public static Course retrieve(String course_code) {
-        Connection c = null;
-        Statement s = null;
+        course_code = course_code.toUpperCase();
+        Connection c;
+        Statement s;
         try {
             Class.forName("org.postgresql.Driver");
             c = Query.getConnection();
@@ -50,13 +57,13 @@ public class Course {
             ResultSet r = s.executeQuery(getQuery(course_code)); //TODO potential SQL injection vulnerability
             Course course;
             if (!r.next()) course = null;
-            course = new Course(
+            else course = new Course(
                     course_code,
                     r.getString("name"),
                     convertToSession(r.getInt("session")),
                     r.getString("career"),
                     r.getInt("units"),
-                    r.getString("requisites"));
+                    r.getString("requisite"));
             r.close();
             s.close();
             c.close();
@@ -68,7 +75,7 @@ public class Course {
     }
 
     private static String getQuery(String course_code) {
-        return "SELECT * FROM courses WHERE course_code = " + course_code + ";";
+        return "SELECT * FROM courses WHERE course_code = \'" + course_code + "\';";
     }
 
     private static Session convertToSession(Integer session_number) {
@@ -84,6 +91,10 @@ public class Course {
                 return Session.OTHER;
             }
         }
+    }
+
+    public static String formatURL(String course_code){
+        return "[" + course_code + "](https://programsandcourses.anu.edu.au/2024/course/" + course_code + ")";
     }
 
 }
