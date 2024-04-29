@@ -4,11 +4,9 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-import static com.friska.manifold.Props.Db.*;
 import static com.friska.manifold.data.Query.*;
 
 /**
@@ -34,11 +32,12 @@ public class Course {
 
 
     public static enum Session {
+        OTHER("Other Semesters"),
         FIRST_SEMESTER("First Semester"),
-        SECOND_SEMESTER("Second Semester"), //TODO fix enum strings
-        OTHER("Other Semesters");
+        SECOND_SEMESTER("Second Semester"),
+        BOTH("Both Semesters");
 
-        public String val;
+        public final String val;
 
         Session(String val){
             this.val = val;
@@ -78,8 +77,9 @@ public class Course {
         return "SELECT * FROM courses WHERE course_code = \'" + course_code + "\';";
     }
 
+    @NotNull
     private static Session convertToSession(Integer session_number) {
-        if (session_number == null) return null;
+        if(session_number == null) return Session.OTHER;
         switch (session_number) {
             case 1 -> {
                 return Session.FIRST_SEMESTER;
@@ -88,7 +88,7 @@ public class Course {
                 return Session.SECOND_SEMESTER;
             }
             default -> {
-                return Session.OTHER;
+                return Session.BOTH;
             }
         }
     }
