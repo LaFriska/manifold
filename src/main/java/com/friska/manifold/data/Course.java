@@ -93,6 +93,9 @@ public class Course {
         }
     }
 
+    /**
+     * Formats a course code so that it is hyperlinked when sent over on Discord.
+     * */
     public static String formatURL(String course_code){
         return "[" + course_code + "](https://programsandcourses.anu.edu.au/2024/course/" + course_code + ")";
     }
