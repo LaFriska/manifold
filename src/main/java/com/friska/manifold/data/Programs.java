@@ -1,4 +1,4 @@
 package com.friska.manifold.data;
 
-public class Programs {
+public record Programs(String program_code, String name) {
 }
