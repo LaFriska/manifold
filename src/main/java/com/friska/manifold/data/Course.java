@@ -16,8 +16,12 @@ import static com.friska.manifold.data.Query.*;
 /**
  * Encapsulates all relevant data into a single object.
  */
-public record Course(String course_code, String name, Session session, String career,
-                     Integer units, String requisites) {
+public record Course(String course_code,
+                     String name,
+                     Session session,
+                     String career,
+                     Integer units,
+                     String requisites) {
 
     public Course(@NotNull String course_code, @NotNull String name, @Nullable Session session, String career, Integer units, String requisites) {
         this.course_code = course_code;
