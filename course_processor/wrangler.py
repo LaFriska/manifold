@@ -10,8 +10,8 @@ def start():
     sanitize()
 
 
-# Bubble sort algorithm to sort the courses json, and disgard unnecessary nesting of objects. Input false into this method
-# if the courses.json does not have courses nested in Items.
+# Bubble sort algorithm to sort the courses json, and disgard unnecessary nesting of objects. Input false into this
+# method if the courses.json does not have courses nested in Items.
 def sort():
     print('Sorting courses and course requisites')
     f = open('courses.json')
@@ -70,7 +70,7 @@ def reformat_reqs(requisite):
     return requisite
 
 
-#Scans through entire requisites json and replace any words that are an ANU course with a hyperlinked version.
+# Scans through entire requisites json and replace any words that are an ANU course with a hyperlinked version.
 def hyperlink_requisites():
     print('Hyperlinking course codes in requisites')
     f = open('requisites.json')
@@ -121,13 +121,9 @@ def get_hyperlinked_course(courseCode):
     return f"[{courseCode}](https://programsandcourses.anu.edu.au/2024/course/{courseCode})"
 
 
-# def replace(s, keyword, replacement):
-#     return re.sub(r'\b%s\b' % re.escape(keyword), replacement, s)
-
-
 # Returns true if the input parameter has the structure to a course code. Returns false if otherwise. Note that this
-# function does not necessarily gurantee that a course exists. For example, LMAO1234 will return true, but ANU does not offer
-# a course with code LMAO1234.
+# function does not necessarily gurantee that a course exists. For example, LMAO1234 will return true, but ANU does
+# not offer a course with code LMAO1234.
 def is_course_code(s):
     if len(s) > 9:
         return False
@@ -174,6 +170,7 @@ def sanitize():
     sanitize_file("requisites.json", 'req')
     print("Sanitizing programs")
     sanitize_file("programs.json", 'name')
+
 
 def sanitize_file(file, attribute):
     data = json.load(open(file))

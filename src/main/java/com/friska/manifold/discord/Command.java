@@ -5,7 +5,7 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.Arrays;
 
-import static com.friska.manifold.Vars.*;
+import static com.friska.manifold.Props.*;
 
 public class Command{
 
@@ -26,7 +26,7 @@ public class Command{
 
     @Nullable
     public String getArg(int i){
-        if(i > args.length - 1) return null;
+        if(args == null || i > args.length - 1) return null;
         return args[i];
     }
 

@@ -1,5 +1,6 @@
 package com.friska.manifold;
 
+import com.friska.manifold.discord.HandleCommand;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.requests.GatewayIntent;
 
@@ -12,7 +13,7 @@ public class Main {
         JDABuilder builder = JDABuilder.createDefault(fetchProperty("token"));
         builder.enableIntents(GatewayIntent.MESSAGE_CONTENT);
         builder.addEventListeners(
-
+              new HandleCommand()
         );
         builder.build();
     }
