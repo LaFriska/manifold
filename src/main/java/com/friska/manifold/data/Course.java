@@ -1,5 +1,9 @@
 package com.friska.manifold.data;
 
+import com.friska.manifold.Props;
+import com.friska.manifold.discord.Command;
+import net.dv8tion.jda.api.EmbedBuilder;
+import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
@@ -12,14 +16,8 @@ import static com.friska.manifold.data.Query.*;
 /**
  * Encapsulates all relevant data into a single object.
  */
-public class Course {
-
-    public final String course_code;
-    public final String name;
-    public final Session session;
-    public final String career;
-    public final Integer units;
-    public final String requisites;
+public record Course(String course_code, String name, Session session, String career,
+                     Integer units, String requisites) {
 
     public Course(@NotNull String course_code, @NotNull String name, @Nullable Session session, String career, Integer units, String requisites) {
         this.course_code = course_code;
@@ -39,7 +37,7 @@ public class Course {
 
         public final String val;
 
-        Session(String val){
+        Session(String val) {
             this.val = val;
         }
     }
@@ -67,7 +65,7 @@ public class Course {
             s.close();
             c.close();
             return course;
-        }catch (Exception e) {
+        } catch (Exception e) {
             handleException(e);
             return null;
         }
@@ -79,7 +77,7 @@ public class Course {
 
     @NotNull
     private static Session convertToSession(Integer session_number) {
-        if(session_number == null) return Session.OTHER;
+        if (session_number == null) return Session.OTHER;
         switch (session_number) {
             case 1 -> {
                 return Session.FIRST_SEMESTER;
@@ -95,9 +93,27 @@ public class Course {
 
     /**
      * Formats a course code so that it is hyperlinked when sent over on Discord.
-     * */
-    public static String formatURL(String course_code){
+     */
+    public static String formatURL(String course_code) {
         return "[" + course_code + "](https://programsandcourses.anu.edu.au/2024/course/" + course_code + ")";
+    }
+
+    public static void handleCourseSearch(MessageReceivedEvent e, Command cmd) {
+        String code = cmd.getArg(0);
+        Course course = Course.retrieve(code);
+        if (course == null) {
+            e.getChannel().sendMessage("Course \"" + code + "\" not found!").queue();
+            return;
+        }
+        EmbedBuilder eb = Props.getEmbedTemplate(); //TODO check for nulls
+        eb.setTitle(course.name);
+        eb.setDescription(Course.formatURL(course.course_code));
+        eb.addField("Session", course.session.val, true);
+        eb.addField("Units", String.valueOf(course.units), true);
+        eb.addField("Career", String.valueOf(course.career), true);
+        eb.addField("Requisites", course.requisites, false);
+        e.getChannel().sendMessageEmbeds(eb.build()).queue();
+
     }
 
 }
