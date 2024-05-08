@@ -1,8 +1,6 @@
 package com.friska.manifold.discord;
 
 import com.friska.manifold.Props;
-import com.friska.manifold.data.Course;
-import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import org.jetbrains.annotations.NotNull;
