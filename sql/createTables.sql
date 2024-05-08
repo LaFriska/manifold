@@ -14,7 +14,8 @@ CREATE TABLE plans (
     uid BIGINT NOT NULL,
     plan_num SMALLINT NOT NULL,
     degree VARCHAR(100),
-    title VARCHAR(100)
+    title VARCHAR(100),
+    years SMALLINT
 );
 
 --The courses table stores information about each ANU course. If the name exceeds 100 chars, it should have the remaining few characters cut off.

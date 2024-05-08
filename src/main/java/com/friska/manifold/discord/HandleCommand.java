@@ -5,7 +5,8 @@ import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import org.jetbrains.annotations.NotNull;
 
-import static com.friska.manifold.data.Course.handleCourseSearch;
+import static com.friska.manifold.data.Course.parseCommand;
+import static com.friska.manifold.Util.isMatch;
 
 public class HandleCommand extends ListenerAdapter {
 
@@ -15,8 +16,10 @@ public class HandleCommand extends ListenerAdapter {
         if(!e.getMessage().getContentRaw().startsWith(String.valueOf(Props.PREFIX))) return;
         Command cmd = Command.parse(e.getMessage().getContentRaw());
         if(cmd == null) return;
-        if(cmd.getHead().equalsIgnoreCase("course") && cmd.getArg(0) != null){
-            handleCourseSearch(e, cmd);
+        String head = cmd.getHead();
+        if(head.equalsIgnoreCase("course") && cmd.getArg(0) != null) parseCommand(e, cmd);
+        if(head.equalsIgnoreCase("plan")){
+
         }
     }
 }

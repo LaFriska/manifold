@@ -5,7 +5,6 @@ import com.friska.manifold.discord.Command;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -102,7 +101,7 @@ public record Course(String course_code,
         return "[" + course_code + "](https://programsandcourses.anu.edu.au/2024/course/" + course_code + ")";
     }
 
-    public static void handleCourseSearch(MessageReceivedEvent e, Command cmd) {
+    public static void parseCommand(MessageReceivedEvent e, Command cmd) {
         String code = cmd.getArg(0);
         Course course = Course.retrieve(code);
         if (course == null) {

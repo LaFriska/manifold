@@ -43,4 +43,18 @@ public class Command{
         return new Command(head, args);
     }
 
+    /**
+     * Concatenate rest of arguments separated by spaces from index, inclusive. Returns null if out of index.
+     * */
+    @Nullable
+    public String concatenateArgsFrom(int index){
+        if(getArg(index) == null) return null;
+        StringBuilder sb = new StringBuilder();
+        for(int i = index; i < args.length; i++){
+            sb.append(getArg(i));
+            if(i != args.length - 1) sb.append(" ");
+        }
+        return sb.toString();
+    }
+
 }
