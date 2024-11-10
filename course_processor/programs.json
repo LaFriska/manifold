@@ -16,14 +16,6 @@
         "mod": "In Person"
     },
     {
-        "program_code": "CTEGO",
-        "name": "Graduate Certificate of Technology Governance",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 0.5,
-        "mod": "In Person"
-    },
-    {
         "program_code": "1006XSRS",
         "name": "ANU Summer Research Scholarship Program",
         "atar": null,
@@ -360,14 +352,6 @@
         "mod": "In Person"
     },
     {
-        "program_code": "AENSU",
-        "name": "Bachelor of Environment and Sustainability Advanced (Honours)",
-        "atar": 90.0,
-        "career": "Undergraduate",
-        "duration": 4.0,
-        "mod": "In Person"
-    },
-    {
         "program_code": "HENVS",
         "name": "Bachelor of Environmental Studies (Honours)",
         "atar": null,
@@ -426,7 +410,7 @@
     {
         "program_code": "BHLTH",
         "name": "Bachelor of Health Science",
-        "atar": 85.0,
+        "atar": 90.0,
         "career": "Undergraduate",
         "duration": 3.0,
         "mod": "In Person"
@@ -632,6 +616,14 @@
         "mod": "In Person"
     },
     {
+        "program_code": "BPNP",
+        "name": "Bachelor of Philosophy, Neuroscience, and Psychology",
+        "atar": 97.0,
+        "career": "Undergraduate",
+        "duration": 3.0,
+        "mod": "In Person"
+    },
+    {
         "program_code": "BPLSC",
         "name": "Bachelor of Political Science",
         "atar": 85.0,
@@ -736,6 +728,14 @@
         "mod": "In Person"
     },
     {
+        "program_code": "ASENG",
+        "name": "Bachelor of Software Engineering (Honours)",
+        "atar": 85.0,
+        "career": "Undergraduate",
+        "duration": 4.0,
+        "mod": "In Person"
+    },
+    {
         "program_code": "BSTAT",
         "name": "Bachelor of Statistics",
         "atar": 80.0,
@@ -784,14 +784,6 @@
         "mod": "Multi-Modal"
     },
     {
-        "program_code": "ESTUD",
-        "name": "Diploma of Studies",
-        "atar": null,
-        "career": "Undergraduate",
-        "duration": 1.0,
-        "mod": "In Person"
-    },
-    {
         "program_code": "9300XLLD",
         "name": "Doctor of Laws",
         "atar": null,
@@ -834,14 +826,6 @@
     {
         "program_code": "9040XPHD",
         "name": "Doctor of Philosophy, ANU College of Business and Economics",
-        "atar": null,
-        "career": "Research",
-        "duration": 4.0,
-        "mod": "In Person"
-    },
-    {
-        "program_code": "9070XPHD",
-        "name": "Doctor of Philosophy, ANU College of Engineering and Computer Science",
         "atar": null,
         "career": "Research",
         "duration": 4.0,
@@ -897,7 +881,7 @@
     },
     {
         "program_code": "9050XPHD",
-        "name": "Doctor of Philosophy, Culture History and Languages",
+        "name": "Doctor of Philosophy, Culture, History and Languages",
         "atar": null,
         "career": "Research",
         "duration": 4.0,
@@ -1045,7 +1029,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "MEMPP",
@@ -1128,12 +1112,20 @@
         "mod": "In Person"
     },
     {
+        "program_code": "CAPSY",
+        "name": "Graduate Certificate of Applied Psychology",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "In Person"
+    },
+    {
         "program_code": "GCAPE",
         "name": "Graduate Certificate of Asia-Pacific Economies",
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "CCPOL",
@@ -1192,14 +1184,6 @@
         "mod": "In Person"
     },
     {
-        "program_code": "CDIPLO",
-        "name": "Graduate Certificate of Diplomacy",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 0.5,
-        "mod": "In Person"
-    },
-    {
         "program_code": "CDRSS",
         "name": "Graduate Certificate of Disaster Risk Science and Sustainability",
         "atar": null,
@@ -1245,7 +1229,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "CEREC",
@@ -1288,20 +1272,20 @@
         "mod": "In Person"
     },
     {
-        "program_code": "CIDECO",
-        "name": "Graduate Certificate of International and Development Economics",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 0.5,
-        "mod": "Online"
-    },
-    {
         "program_code": "CIDEC",
         "name": "Graduate Certificate of International and Development Economics",
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
         "mod": "In Person"
+    },
+    {
+        "program_code": "CIDECO",
+        "name": "Graduate Certificate of International and Development Economics",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "Online"
     },
     {
         "program_code": "CLAW",
@@ -1325,7 +1309,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
-        "mod": "In Person"
+        "mod": "Online"
     },
     {
         "program_code": "CMECA",
@@ -1349,7 +1333,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "CNTL",
@@ -1358,6 +1342,22 @@
         "career": "Postgraduate",
         "duration": 0.5,
         "mod": "Online"
+    },
+    {
+        "program_code": "CNSSO",
+        "name": "Graduate Certificate of Nuclear Security and Safeguards",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "Online"
+    },
+    {
+        "program_code": "CNSS",
+        "name": "Graduate Certificate of Nuclear Security and Safeguards",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "In Person"
     },
     {
         "program_code": "CNTR",
@@ -1373,7 +1373,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "CPODA",
@@ -1381,11 +1381,19 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "CPOLS",
         "name": "Graduate Certificate of Political Science",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "In Person"
+    },
+    {
+        "program_code": "CPARC",
+        "name": "Graduate Certificate of Professional Archaeology",
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
@@ -1405,7 +1413,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "6192XGCPPP",
@@ -1413,15 +1421,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
-        "mod": "Multi-Modal"
-    },
-    {
-        "program_code": "CREGOL",
-        "name": "Graduate Certificate of Regulation and Governance",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 0.5,
-        "mod": "Online"
+        "mod": "In Person"
     },
     {
         "program_code": "CREGO",
@@ -1430,6 +1430,14 @@
         "career": "Postgraduate",
         "duration": 0.5,
         "mod": "In Person"
+    },
+    {
+        "program_code": "CREGOL",
+        "name": "Graduate Certificate of Regulation and Governance",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "Online"
     },
     {
         "program_code": "CSCIE",
@@ -1466,6 +1474,14 @@
     {
         "program_code": "CSTUD",
         "name": "Graduate Certificate of Studies",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 0.5,
+        "mod": "In Person"
+    },
+    {
+        "program_code": "CTEGO",
+        "name": "Graduate Certificate of Technology Governance",
         "atar": null,
         "career": "Postgraduate",
         "duration": 0.5,
@@ -1576,7 +1592,7 @@
         "mod": "In Person"
     },
     {
-        "program_code": "5034XNAWD",
+        "program_code": "5031XNAWD",
         "name": "Graduate Exchange Program",
         "atar": null,
         "career": "Non-Award",
@@ -1584,7 +1600,7 @@
         "mod": "In Person"
     },
     {
-        "program_code": "5031XNAWD",
+        "program_code": "5034XNAWD",
         "name": "Graduate Exchange Program",
         "atar": null,
         "career": "Non-Award",
@@ -1800,6 +1816,14 @@
         "mod": "In Person"
     },
     {
+        "program_code": "MACRI",
+        "name": "Master of Applied Criminology",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 1.0,
+        "mod": "Multi-Modal"
+    },
+    {
         "program_code": "MACYB",
         "name": "Master of Applied Cybernetics",
         "atar": null,
@@ -1872,14 +1896,6 @@
         "mod": "In Person"
     },
     {
-        "program_code": "MMUAU",
-        "name": "Master of Arts - Arts Administration / Master of Museum and Heritage Studies",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 2.0,
-        "mod": "In Person"
-    },
-    {
         "program_code": "MANPS",
         "name": "Master of Asian and Pacific Studies",
         "atar": null,
@@ -1933,7 +1949,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "7601XMCPSY",
@@ -2000,12 +2016,12 @@
         "mod": "Multi-Modal"
     },
     {
-        "program_code": "MDHPU",
-        "name": "Master of Digital Humanities and Public Culture",
+        "program_code": "MDIHU",
+        "name": "Master of Digital Humanities",
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.0,
-        "mod": "In Person"
+        "mod": "Multi-Modal"
     },
     {
         "program_code": "VDHPU",
@@ -2016,20 +2032,20 @@
         "mod": "In Person"
     },
     {
-        "program_code": "MDIPOL",
-        "name": "Master of Diplomacy",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 1.0,
-        "mod": "Online"
-    },
-    {
         "program_code": "MDIP",
         "name": "Master of Diplomacy",
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.0,
         "mod": "In Person"
+    },
+    {
+        "program_code": "MDIPOL",
+        "name": "Master of Diplomacy",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 1.0,
+        "mod": "Online"
     },
     {
         "program_code": "VEASC",
@@ -2096,22 +2112,6 @@
         "mod": "In Person"
     },
     {
-        "program_code": "NMECH",
-        "name": "Master of Engineering in Mechatronics",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 2.0,
-        "mod": "In Person"
-    },
-    {
-        "program_code": "NENRE",
-        "name": "Master of Engineering in Renewable Energy",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 2.0,
-        "mod": "In Person"
-    },
-    {
         "program_code": "NRAC",
         "name": "Master of Engineering in Robotics, Automation and Control",
         "atar": null,
@@ -2150,14 +2150,6 @@
         "career": "Postgraduate",
         "duration": 2.0,
         "mod": "In Person"
-    },
-    {
-        "program_code": "MEMOL",
-        "name": "Master of Environmental Management and Development - Online",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 2.0,
-        "mod": "Online"
     },
     {
         "program_code": "MERECO",
@@ -2392,6 +2384,14 @@
         "mod": "In Person"
     },
     {
+        "program_code": "MMHES",
+        "name": "Master of Museum and Heritage Studies",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 1.0,
+        "mod": "Multi-Modal"
+    },
+    {
         "program_code": "VMUHS",
         "name": "Master of Museum and Heritage Studies (Advanced)",
         "atar": null,
@@ -2405,7 +2405,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "MNEUR",
@@ -2429,7 +2429,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.0,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "MPCS",
@@ -2466,14 +2466,6 @@
     {
         "program_code": "8040XMPHIL",
         "name": "Master of Philosophy, ANU College of Business and Economics",
-        "atar": null,
-        "career": "Research",
-        "duration": 2.0,
-        "mod": "In Person"
-    },
-    {
-        "program_code": "8070XMPHIL",
-        "name": "Master of Philosophy, ANU College of Engineering and Computer Science",
         "atar": null,
         "career": "Research",
         "duration": 2.0,
@@ -2709,7 +2701,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.5,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "MPUBH",
@@ -2733,7 +2725,7 @@
         "atar": null,
         "career": "Postgraduate",
         "duration": 2.0,
-        "mod": "Multi-Modal"
+        "mod": "In Person"
     },
     {
         "program_code": "MPPAU",
@@ -2849,7 +2841,7 @@
     },
     {
         "program_code": "NSCAA",
-        "name": "Master of Science in Astronomy & Astrophysics",
+        "name": "Master of Science in Astronomy and Astrophysics",
         "atar": null,
         "career": "Postgraduate",
         "duration": 2.0,
@@ -2984,20 +2976,20 @@
         "mod": "In Person"
     },
     {
-        "program_code": "MTEGO",
-        "name": "Master of Technology Governance",
-        "atar": null,
-        "career": "Postgraduate",
-        "duration": 1.5,
-        "mod": "In Person"
-    },
-    {
         "program_code": "MTEGOL",
         "name": "Master of Technology Governance",
         "atar": null,
         "career": "Postgraduate",
         "duration": 1.5,
         "mod": "Online"
+    },
+    {
+        "program_code": "MTEGO",
+        "name": "Master of Technology Governance",
+        "atar": null,
+        "career": "Postgraduate",
+        "duration": 1.5,
+        "mod": "In Person"
     },
     {
         "program_code": "VTRAN",
