@@ -1,5 +1,7 @@
 # Manifold
 
+## NOTE THAT THIS APP IS STILL UNDER DEVELOPMENT
+
 "Manifold" is an open source, multifaceted Discord bot designed to streamline various academic tasks, primarily focusing on managing degrees at the Australian National University (ANU). This comprehensive system offers features such as degree planning, course searching, and data management. Written in Java for Discord bot functionalities and Python for data manipulation tasks, "Manifold" utilizes SQL for efficient database management, course data processing, and data wrangling. With its diverse capabilities and integration with Discord, "Manifold" serves as a powerful tool for students and administrators alike, enhancing the academic experience at ANU.
 
 ## Development
